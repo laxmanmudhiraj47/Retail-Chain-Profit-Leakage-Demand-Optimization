@@ -131,7 +131,7 @@ Retail-Chain-Profit-Leakage-Demand-Optimization/
 
 ## 👨‍💻 Author
 
-### **Laxman Mudhiraj**
+### **Boin Laxman**
 
 **Aspiring Data Analyst**
 
