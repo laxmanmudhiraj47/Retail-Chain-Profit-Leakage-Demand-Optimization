@@ -44,18 +44,21 @@ This project analyzes retail sales, inventory, and profitability to identify **p
 
 ![Dashboard](Dashboard_Images/powerbi_dashboards/dashboard1.png.png)
 
-### Tableau Dashboard
+### 📊 Tableau Dashboard 1
 
-![Tableau Dashboard](Dashboard_Images/tableau_dashboard.png)
+![Tableau Dashboard 1](Dashboard_Images/tableau_dashboards/dashboard2.png)
 
-### Sales Analysis
+### 📊 Tableau Dashboard 2
 
-![Sales Analysis](Dashboard_Images/sales_analysis.png)
+![Tableau Dashboard 2](Dashboard_Images/tableau_dashboards/dashboard3.png)
 
-### Inventory Analysis
+### 📊 Tableau Dashboard 3
 
-![Inventory Analysis](Dashboard_Images/inventory_analysis.png)
+![Tableau Dashboard 3](Dashboard_Images/tableau_dashboards/dashboard4.png)
 
+### 📊 Tableau Dashboard 4
+
+![Tableau Dashboard 4](Dashboard_Images/tableau_dashboards/dashboard5.png)
 
 ---
 
