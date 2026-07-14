@@ -1,0 +1,1203 @@
+SKU_ID,SKU_Name,Category,Sub_Category,Brand,Tax_Percent,Unit_Cost,MRP
+SKU00001,Snackify Biscuits 500g,Snacks,Biscuits,Snackify,12,55.38,99
+SKU00002,FreshCo Paneer 250g,Dairy,Paneer,FreshCo,5,43.66,59.06
+SKU00003,DailyDairy Edible Oil 500g,Groceries,Edible Oil,DailyDairy,5,76.77,105.78
+SKU00004,Snackify Butter 1kg,Dairy,Butter,Snackify,5,144.24,259.33
+SKU00005,BabyBloom Detergent 750ml,Home Care,Detergent,BabyBloom,18,112.73,175.81
+SKU00006,FreshCo Edible Oil 1L,Groceries,Edible Oil,FreshCo,5,106.31,183.27
+SKU00007,HealthHub Edible Oil 750ml,Groceries,Edible Oil,HealthHub,5,64.06,92.95
+SKU00008,Nestora Atta 2L,Groceries,Atta,Nestora,5,109.6,154.48
+SKU00009,Snackify Toothpaste 200ml,Personal Care,Toothpaste,Snackify,18,83.27,144.16
+SKU00010,CleanPro Paneer 2L,Dairy,Paneer,CleanPro,5,203.4,277.37
+SKU00011,HealthHub Shampoo Combo,Personal Care,Shampoo,HealthHub,18,84.96,118.6
+SKU00012,FreshCo Floor Cleaner 2L,Home Care,Floor Cleaner,FreshCo,18,74.35,108
+SKU00013,Nestora Paneer Combo,Dairy,Paneer,Nestora,5,26.31,37.74
+SKU00014,BabyBloom Freshener 750ml,Home Care,Freshener,BabyBloom,18,146.87,197.04
+SKU00015,HealthHub Chocolate Pack,Snacks,Chocolate,HealthHub,12,57.39,80.88
+SKU00016,DailyDairy Namkeen 200ml,Snacks,Namkeen,DailyDairy,12,22.59,30.39
+SKU00017,HealthHub Detergent 100g,Home Care,Detergent,HealthHub,18,108.31,167.12
+SKU00018,FrostBite Baby Food 100g,Baby Care,Baby Food,FrostBite,5,31.81,51.91
+SKU00019,BabyBloom Milk 750ml,Dairy,Milk,BabyBloom,5,184.25,282.57
+SKU00020,UrbanLeaf Toothpaste Pack,Personal Care,Toothpaste,UrbanLeaf,18,130.19,167.8
+SKU00021,FreshCo Ice Cream 2L,Frozen,Ice Cream,FreshCo,18,67.8,106.76
+SKU00022,AquaFizz Namkeen Combo,Snacks,Namkeen,AquaFizz,12,21.64,35.54
+SKU00023,FrostBite Powder 1kg,Baby Care,Powder,FrostBite,5,20.18,27.19
+SKU00024,FrostBite Cheese 1kg,Dairy,Cheese,FrostBite,5,91.57,138.86
+SKU00025,HealthHub Pulses Pack,Groceries,Pulses,HealthHub,5,53.08,94.69
+SKU00026,AquaFizz Soft Drink 500g,Beverages,Soft Drink,AquaFizz,12,82.04,139.87
+SKU00027,UrbanLeaf Baby Food Combo,Baby Care,Baby Food,UrbanLeaf,5,90.58,135.94
+SKU00028,Nestora Butter 1L,Dairy,Butter,Nestora,5,26.63,37.08
+SKU00029,DailyDairy Coffee 750ml,Beverages,Coffee,DailyDairy,12,106.07,141.94
+SKU00030,FreshCo Ready Meals 200ml,Frozen,Ready Meals,FreshCo,18,71.89,91.67
+SKU00031,BabyBloom Baby Lotion 100g,Baby Care,Baby Lotion,BabyBloom,5,159.21,219.54
+SKU00032,BabyBloom Skin Care 100g,Personal Care,Skin Care,BabyBloom,18,59.38,90.17
+SKU00033,Snackify Frozen Snacks 1L,Frozen,Frozen Snacks,Snackify,18,18.73,28.55
+SKU00034,UrbanLeaf Shampoo 200ml,Personal Care,Shampoo,UrbanLeaf,18,58.76,79.03
+SKU00035,Nestora Dishwash Pack,Home Care,Dishwash,Nestora,18,40.46,60.69
+SKU00036,CleanPro Toothpaste 500g,Personal Care,Toothpaste,CleanPro,18,62.34,93.05
+SKU00037,BabyBloom Skin Care 250g,Personal Care,Skin Care,BabyBloom,18,32.41,54.94
+SKU00038,BabyBloom Biscuits Combo,Snacks,Biscuits,BabyBloom,12,82.44,144.82
+SKU00039,BabyBloom Spices 750ml,Groceries,Spices,BabyBloom,5,181.93,323.2
+SKU00040,Snackify Ready Meals 1kg,Frozen,Ready Meals,Snackify,18,95.32,144.68
+SKU00041,Nestora Baby Lotion 1L,Baby Care,Baby Lotion,Nestora,5,122.28,210.08
+SKU00042,FrostBite Curd 200ml,Dairy,Curd,FrostBite,5,67.2,106.92
+SKU00043,HealthHub Cheese 500g,Dairy,Cheese,HealthHub,5,20.55,26.84
+SKU00044,HealthHub Milk 200ml,Dairy,Milk,HealthHub,5,100.51,129.67
+SKU00045,HealthHub Cheese 500g,Dairy,Cheese,HealthHub,5,39.44,62.43
+SKU00046,HealthHub Curd 750ml,Dairy,Curd,HealthHub,5,62.36,101.33
+SKU00047,AquaFizz Toothpaste Combo,Personal Care,Toothpaste,AquaFizz,18,168.57,271.13
+SKU00048,FreshCo Chocolate 1kg,Snacks,Chocolate,FreshCo,12,109.21,165.58
+SKU00049,FrostBite Baby Lotion Pack,Baby Care,Baby Lotion,FrostBite,5,118.07,186.07
+SKU00050,UrbanLeaf Tea 1kg,Beverages,Tea,UrbanLeaf,12,47.58,76.83
+SKU00051,FrostBite Namkeen 200ml,Snacks,Namkeen,FrostBite,12,73.82,120.84
+SKU00052,BabyBloom Atta 250g,Groceries,Atta,BabyBloom,5,60.51,80.43
+SKU00053,Nestora Deodorant 2L,Personal Care,Deodorant,Nestora,18,55.15,83.38
+SKU00054,CleanPro Tea 2L,Beverages,Tea,CleanPro,12,99,141.78
+SKU00055,AquaFizz Biscuits 1L,Snacks,Biscuits,AquaFizz,12,26.46,40.11
+SKU00056,HealthHub Biscuits 1L,Snacks,Biscuits,HealthHub,12,180.82,265.15
+SKU00057,DailyDairy Freshener 1L,Home Care,Freshener,DailyDairy,18,85.1,109.79
+SKU00058,Nestora Baby Food 500g,Baby Care,Baby Food,Nestora,5,210.53,354.63
+SKU00059,CleanPro Soft Drink 1L,Beverages,Soft Drink,CleanPro,12,55.7,85.62
+SKU00060,AquaFizz Chocolate 250g,Snacks,Chocolate,AquaFizz,12,147.41,255.18
+SKU00061,FreshCo Curd 1L,Dairy,Curd,FreshCo,5,110.37,140.58
+SKU00062,AquaFizz Wipes 1L,Baby Care,Wipes,AquaFizz,5,77.82,101.4
+SKU00063,HealthHub Powder 500g,Baby Care,Powder,HealthHub,5,56.87,75.03
+SKU00064,FreshCo Baby Food 1kg,Baby Care,Baby Food,FreshCo,5,58.47,101.07
+SKU00065,FrostBite Frozen Veg 200ml,Frozen,Frozen Veg,FrostBite,18,41.83,63.95
+SKU00066,FreshCo Frozen Snacks 750ml,Frozen,Frozen Snacks,FreshCo,18,72.83,121.1
+SKU00067,FreshCo Baby Lotion 200ml,Baby Care,Baby Lotion,FreshCo,5,125.7,162.46
+SKU00068,Nestora Soap 200ml,Personal Care,Soap,Nestora,18,139.88,232.25
+SKU00069,HealthHub Wipes Combo,Baby Care,Wipes,HealthHub,5,92.41,119.45
+SKU00070,UrbanLeaf Baby Food 2L,Baby Care,Baby Food,UrbanLeaf,5,49.61,86.85
+SKU00071,Nestora Shampoo 1kg,Personal Care,Shampoo,Nestora,18,59.65,91.36
+SKU00072,DailyDairy Skin Care 1L,Personal Care,Skin Care,DailyDairy,18,53.22,94.61
+SKU00073,DailyDairy Pulses 100g,Groceries,Pulses,DailyDairy,5,88.09,140.88
+SKU00074,AquaFizz Tissues 100g,Home Care,Tissues,AquaFizz,18,81.32,128.56
+SKU00075,Nestora Frozen Veg 250g,Frozen,Frozen Veg,Nestora,18,28.73,38.55
+SKU00076,BabyBloom Powder 750ml,Baby Care,Powder,BabyBloom,5,46.28,73.94
+SKU00077,UrbanLeaf Deodorant 2L,Personal Care,Deodorant,UrbanLeaf,18,105.71,175.97
+SKU00078,UrbanLeaf Spices Combo,Groceries,Spices,UrbanLeaf,5,30.86,48.93
+SKU00079,UrbanLeaf Atta 200ml,Groceries,Atta,Unknown,5,53.45,87.08
+SKU00080,FreshCo Powder 2L,Baby Care,Powder,FreshCo,5,63.52,110.29
+SKU00081,BabyBloom Pulses 2L,Groceries,Pulses,BabyBloom,5,42.54,69.48
+SKU00082,BabyBloom Diapers 500g,Baby Care,Diapers,BabyBloom,5,77.42,124.14
+SKU00083,CleanPro Dishwash 500g,Home Care,Dishwash,CleanPro,18,20.32,31.3
+SKU00084,FrostBite Paneer 2L,Dairy,Paneer,FrostBite,5,150.45,225.74
+SKU00085,FrostBite Rice 250g,Groceries,Rice,FrostBite,5,210.17,345.1
+SKU00086,FrostBite Floor Cleaner 2L,Home Care,Floor Cleaner,FrostBite,18,24.27,41.39
+SKU00087,DailyDairy Powder 2L,Baby Care,Powder,DailyDairy,5,124.02,204.71
+SKU00088,DailyDairy Energy Drink Pack,Beverages,Energy Drink,DailyDairy,12,39.27,51.25
+SKU00089,FreshCo Skin Care 750ml,Personal Care,Skin Care,FreshCo,18,100.27,139.47
+SKU00090,FreshCo Baby Food 1L,Baby Care,Baby Food,FreshCo,5,226.24,359.18
+SKU00091,DailyDairy Ice Cream 100g,Frozen,Ice Cream,DailyDairy,18,104.41,163.09
+SKU00092,AquaFizz Curd 200ml,Dairy,Curd,AquaFizz,5,152.18,267.03
+SKU00093,FrostBite Coffee 1L,Beverages,Coffee,FrostBite,12,35.25,63.13
+SKU00094,FrostBite Butter 200ml,Dairy,Butter,FrostBite,5,42.91,74.78
+SKU00095,Snackify Dishwash 2L,Home Care,Dishwash,Snackify,18,72.08,114.12
+SKU00096,Snackify Frozen Snacks 1L,Frozen,Frozen Snacks,Snackify,18,139.07,228.87
+SKU00097,FreshCo Namkeen 250g,Snacks,Namkeen,FreshCo,12,139.63,239.71
+SKU00098,BabyBloom Pulses Pack,Groceries,Pulses,BabyBloom,5,110.02,146.38
+SKU00099,Snackify Diapers 250g,Baby Care,Diapers,Snackify,5,54.89,78.06
+SKU00100,FreshCo Energy Drink 1kg,Beverages,Energy Drink,FreshCo,12,98.61,124.62
+SKU00101,FreshCo Detergent 100g,Home Care,Detergent,FreshCo,18,82.87,132.03
+SKU00102,UrbanLeaf Tea 100g,Beverages,Tea,UrbanLeaf,12,19.45,34.15
+SKU00103,CleanPro Skin Care 750ml,Personal Care,Skin Care,CleanPro,18,64.2,80.42
+SKU00104,BabyBloom Deodorant Combo,Personal Care,Deodorant,BabyBloom,18,154.39,203.71
+SKU00105,FreshCo Baby Food 100g,Baby Care,Baby Food,FreshCo,5,91.81,124.87
+SKU00106,Snackify Atta 1kg,Groceries,Atta,Snackify,5,44.98,75.5
+SKU00107,FreshCo Tea 100g,Beverages,Tea,FreshCo,12,250.12,363.54
+SKU00108,DailyDairy Paneer 1kg,Dairy,Paneer,DailyDairy,5,18.67,25.37
+SKU00109,FrostBite Tea 500g,Beverages,Tea,FrostBite,12,115.23,167.64
+SKU00110,Snackify Instant Noodles 100g,Snacks,Instant Noodles,Snackify,12,137.85,191.74
+SKU00111,BabyBloom Shampoo 1L,Personal Care,Shampoo,BabyBloom,18,84.55,117.33
+SKU00112,CleanPro Curd 500g,Dairy,Curd,CleanPro,5,26.5,41.37
+SKU00113,CleanPro Soap 100g,Personal Care,Soap,CleanPro,18,28.57,46.25
+SKU00114,FrostBite Floor Cleaner 2L,Home Care,Floor Cleaner,FrostBite,18,93.4,129.56
+SKU00115,AquaFizz Toothpaste 500g,Personal Care,Toothpaste,AquaFizz,18,127.91,198.57
+SKU00116,Nestora Tea 500g,Beverages,Tea,Nestora,12,33.5,42.42
+SKU00117,FrostBite Tissues 1L,Home Care,Tissues,FrostBite,18,61.61,109.96
+SKU00118,Snackify Diapers Pack,Baby Care,Diapers,Snackify,5,104.36,136.33
+SKU00119,CleanPro Meat 1L,Frozen,Meat,CleanPro,18,51.23,79.79
+SKU00120,DailyDairy Floor Cleaner 200ml,Home Care,Floor Cleaner,DailyDairy,18,50.52,90.85
+SKU00121,Nestora Frozen Snacks 200ml,Frozen,Frozen Snacks,Nestora,18,78.71,112.32
+SKU00122,CleanPro Rice 750ml,Groceries,Rice,CleanPro,5,86.3,121.5
+SKU00123,FreshCo Shampoo 750ml,Personal Care,Shampoo,FreshCo,18,212.97,352.7
+SKU00124,DailyDairy Energy Drink 100g,Beverages,Energy Drink,DailyDairy,12,65.96,99.35
+SKU00125,UrbanLeaf Spices 200ml,Groceries,Spices,UrbanLeaf,5,65.61,91.63
+SKU00126,Nestora Soft Drink 100g,Beverages,Soft Drink,Nestora,12,36.09,56.48
+SKU00127,BabyBloom Namkeen 250g,Snacks,Namkeen,BabyBloom,12,77.85,132.73
+SKU00128,CleanPro Detergent 1L,Home Care,Detergent,CleanPro,18,74.13,119.95
+SKU00129,Nestora Biscuits 250g,Snacks,Biscuits,Nestora,12,70.33,97.2
+SKU00130,FrostBite Ice Cream 100g,Frozen,Ice Cream,FrostBite,18,80.93,86.19
+SKU00131,BabyBloom Dishwash 500g,Home Care,Dishwash,BabyBloom,18,99.31,174.93
+SKU00132,FreshCo Cheese 200ml,Dairy,Cheese,FreshCo,5,157.3,213.68
+SKU00133,Nestora Meat 750ml,Frozen,Meat,Nestora,18,53.05,85.33
+SKU00134,CleanPro Pulses 1L,Groceries,Pulses,CleanPro,5,92.45,140.96
+SKU00135,BabyBloom Paneer 200ml,Dairy,Paneer,BabyBloom,5,166.59,269.02
+SKU00136,FrostBite Frozen Snacks 200ml,Frozen,Frozen Snacks,FrostBite,18,77.67,102.97
+SKU00137,UrbanLeaf Energy Drink 500g,Beverages,Energy Drink,UrbanLeaf,12,167.77,231.2
+SKU00138,UrbanLeaf Meat 2L,Frozen,Meat,UrbanLeaf,18,50.67,73.03
+SKU00139,DailyDairy Edible Oil 1kg,Groceries,Edible Oil,DailyDairy,5,68.41,117.1
+SKU00140,UrbanLeaf Rice 250g,Groceries,Rice,UrbanLeaf,5,65.49,95.71
+SKU00141,FrostBite Butter 2L,Dairy,Butter,FrostBite,5,79.83,114.6
+SKU00142,BabyBloom Rice 1L,Groceries,Rice,BabyBloom,5,140.82,233.46
+SKU00143,Nestora Baby Food Pack,Baby Care,Baby Food,Nestora,5,55.3,73.34
+SKU00144,BabyBloom Paneer 1kg,Dairy,Paneer,BabyBloom,5,37.33,53.23
+SKU00145,CleanPro Butter 1kg,Dairy,Butter,CleanPro,5,163.81,254.39
+SKU00146,DailyDairy Coffee 1L,Beverages,Coffee,DailyDairy,12,128.15,184.6
+SKU00147,Snackify Baby Lotion 1kg,Baby Care,Baby Lotion,Snackify,5,20.74,32.75
+SKU00148,Nestora Baby Food Combo,Baby Care,Baby Food,Nestora,5,98.1,155.08
+SKU00149,HealthHub Detergent 200ml,Home Care,Detergent,HealthHub,18,184.09,244.42
+SKU00150,CleanPro Namkeen Combo,Snacks,Namkeen,CleanPro,12,79.95,105.8
+SKU00151,FrostBite Shampoo 500g,Personal Care,Shampoo,FrostBite,18,53.91,90.64
+SKU00152,FreshCo Baby Food 1L,Baby Care,Baby Food,FreshCo,5,115.42,170.77
+SKU00153,BabyBloom Baby Food 100g,Baby Care,Baby Food,BabyBloom,5,105.93,141.1
+SKU-23421,FrostBite Baby Lotion 1kg,Baby Care,Baby Lotion,FrostBite,5,45.84,59.23
+SKU00155,FreshCo Floor Cleaner Pack,Home Care,Floor Cleaner,FreshCo,18,51.41,76.11
+SKU00156,FrostBite Pulses 1kg,Groceries,Pulses,FrostBite,5,57.01,97.67
+SKU00157,Snackify Baby Food 1L,Baby Care,Baby Food,Snackify,5,50.69,69.08
+SKU00158,HealthHub Detergent 1kg,Home Care,Detergent,HealthHub,18,16.16,29.04
+SKU00159,CleanPro Deodorant 250g,Personal Care,Deodorant,CleanPro,18,20.69,26.1
+SKU-02599,BabyBloom Deodorant 100g,Personal Care,Deodorant,BabyBloom,18,65.8,103.73
+SKU00161,DailyDairy Cheese Pack,Dairy,Cheese,DailyDairy,5,104.12,170.19
+SKU00162,Nestora Baby Lotion 200ml,Baby Care,Baby Lotion,Nestora,5,34.43,53.12
+SKU00163,FrostBite Spices 750ml,Groceries,Spices,FrostBite,5,105.45,146.84
+SKU00164,Snackify Coffee 250g,Beverages,Coffee,Snackify,12,75.1,106.95
+SKU00165,FreshCo Frozen Snacks 250g,Frozen,Frozen Snacks,FreshCo,18,57.23,88.97
+SKU00166,AquaFizz Pulses 750ml,Groceries,Pulses,AquaFizz,5,144.95,252.57
+SKU00167,Nestora Curd 100g,Dairy,Curd,Nestora,5,223.73,331.31
+SKU00168,FreshCo Juice 750ml,Beverages,Juice,FreshCo,12,77.1,111
+SKU00169,FreshCo Meat 250g,Frozen,Meat,FreshCo,18,95.19,139.95
+SKU00170,Nestora Frozen Snacks 100g,Frozen,Frozen Snacks,Nestora,18,68.09,122.54
+SKU00171,CleanPro Milk 200ml,Dairy,Milk,CleanPro,5,137.37,191.85
+SKU00172,Snackify Floor Cleaner 2L,Home Care,Floor Cleaner,Snackify,18,69.3,93.16
+SKU00173,AquaFizz Biscuits 750ml,Snacks,Biscuits,AquaFizz,12,30.72,53.49
+SKU00174,BabyBloom Spices 2L,Groceries,Spices,BabyBloom,5,25.38,33.48
+SKU00175,Nestora Detergent 750ml,Home Care,Detergent,Nestora,18,48.27,82.62
+SKU00176,UrbanLeaf Powder 100g,Baby Care,Powder,UrbanLeaf,5,32,51
+SKU00177,BabyBloom Diapers 200ml,Baby Care,Diapers,BabyBloom,5,41.26,73.31
+SKU-91746,Snackify Skin Care 250g,Personal Care,Skin Care,Snackify,18,49.7,70.81
+SKU00179,CleanPro Juice 100g,Beverages,Juice,CleanPro,12,44.55,76.65
+SKU00180,CleanPro Frozen Veg Pack,Frozen,Frozen Veg,CleanPro,18,93.65,121.57
+SKU00181,UrbanLeaf Ice Cream 200ml,Frozen,Ice Cream,UrbanLeaf,18,39.89,67.03
+SKU00182,BabyBloom Curd Pack,Dairy,Curd,BabyBloom,5,32.94,47.1
+SKU00183,AquaFizz Freshener Pack,Home Care,Freshener,AquaFizz,18,22.75,34.2
+SKU00184,BabyBloom Frozen Veg 1L,Frozen,Frozen Veg,BabyBloom,18,157.26,265.51
+SKU00185,UrbanLeaf Detergent 250g,Home Care,Detergent,UrbanLeaf,18,64.11,102.52
+SKU00186,DailyDairy Cheese 250g,Dairy,Cheese,DailyDairy,5,89.35,134.21
+SKU00187,DailyDairy Energy Drink 500g,Beverages,Energy Drink,DailyDairy,12,94.75,133.69
+SKU00188,Snackify Ready Meals 2L,Frozen,Ready Meals,Snackify,18,26.55,44.22
+SKU00189,CleanPro Freshener 250g,Home Care,Freshener,CleanPro,18,71.67,107.95
+SKU00190,CleanPro Spices Combo,Groceries,Spices,CleanPro,5,69.9,96.78
+SKU00191,BabyBloom Biscuits 2L,Snacks,Biscuits,BabyBloom,12,27.04,39.63
+SKU00192,CleanPro Detergent 1L,Home Care,Detergent,CleanPro,18,48.56,81.96
+SKU00193,FrostBite Ready Meals 750ml,Frozen,Ready Meals,FrostBite,18,100.84,129.3
+SKU00194,UrbanLeaf Tea 500g,Beverages,Tea,UrbanLeaf,12,125.01,178.42
+SKU00195,HealthHub Ready Meals Pack,Frozen,Ready Meals,HealthHub,18,326.82,539.27
+SKU00196,Snackify Rice 2L,Groceries,Rice,Snackify,5,240.35,381.43
+SKU00197,DailyDairy Baby Lotion 1kg,Baby Care,Baby Lotion,DailyDairy,5,72.47,108.1
+SKU00198,UrbanLeaf Dishwash 2L,Home Care,Dishwash,UrbanLeaf,18,80.48,107.49
+SKU00199,FreshCo Butter 2L,Dairy,Butter,FreshCo,5,66.86,85.33
+SKU00200,UrbanLeaf Rice 1L,Groceries,Rice,UrbanLeaf,5,43.77,64.37
+SKU00201,UrbanLeaf Pulses 100g,Groceries,Pulses,UrbanLeaf,5,114.54,186.54
+SKU00202,FreshCo Ice Cream 1kg,Frozen,Ice Cream,FreshCo,18,143.23,200.14
+SKU00203,HealthHub Energy Drink 1L,Beverages,Energy Drink,HealthHub,12,48.25,84.25
+SKU00204,DailyDairy Frozen Snacks Combo,Frozen,Frozen Snacks,DailyDairy,18,43.74,69.58
+SKU00205,BabyBloom Rice 100g,Groceries,Rice,BabyBloom,5,51.6,77.42
+SKU00206,AquaFizz Baby Food 1L,Baby Care,Baby Food,AquaFizz,5,15.24,25.38
+SKU00207,DailyDairy Powder 2L,Baby Care,Powder,DailyDairy,5,83.17,117.67
+SKU00208,Snackify Detergent 100g,Home Care,Detergent,Snackify,18,217.2,378.29
+SKU00209,DailyDairy Rice Pack,Groceries,Rice,DailyDairy,5,75.8,110.07
+SKU00210,CleanPro Ice Cream 1L,Frozen,Ice Cream,CleanPro,18,32.17,40.31
+SKU00211,DailyDairy Frozen Snacks Pack,Frozen,Frozen Snacks,DailyDairy,18,75.8,135.55
+SKU00212,Snackify Pulses 250g,Groceries,Pulses,Snackify,5,108.6,165.38
+SKU00213,Nestora Frozen Veg 100g,Frozen,Frozen Veg,Nestora,18,61.97,108.26
+SKU00214,FrostBite Curd 1L,Dairy,Curd,FrostBite,5,38.74,50.75
+SKU00215,DailyDairy Coffee Pack,Beverages,Coffee,DailyDairy,12,73.14,99.47
+SKU00216,CleanPro Floor Cleaner 1kg,Home Care,Floor Cleaner,CleanPro,18,68.02,103.12
+SKU00217,UrbanLeaf Powder 1L,Baby Care,Powder,UrbanLeaf,5,85.24,148.53
+SKU00218,Nestora Baby Lotion Combo,Baby Care,Baby Lotion,Unknown,5,126.18,164.11
+SKU00219,Nestora Skin Care 1L,Personal Care,Skin Care,Nestora,18,40.61,62.79
+SKU00220,UrbanLeaf Edible Oil 750ml,Groceries,Edible Oil,UrbanLeaf,5,62.91,104.87
+SKU00221,UrbanLeaf Rice 750ml,Groceries,Rice,UrbanLeaf,5,78.67,115.23
+SKU00222,FreshCo Baby Food 1kg,Baby Care,Baby Food,FreshCo,5,105.29,157.4
+SKU00223,DailyDairy Toothpaste 200ml,Personal Care,Toothpaste,DailyDairy,18,73.62,129.83
+SKU00224,CleanPro Diapers 750ml,Baby Care,Diapers,CleanPro,5,126.18,194.99
+SKU00225,FrostBite Namkeen 200ml,Snacks,Namkeen,FrostBite,12,84.1,137.04
+SKU00226,FreshCo Milk 100g,Dairy,Milk,FreshCo,5,23.15,37.51
+SKU00227,Snackify Cheese 1kg,Dairy,Cheese,Snackify,5,172.32,300.44
+SKU00228,AquaFizz Freshener 100g,Home Care,Freshener,AquaFizz,18,46.52,66.89
+SKU00229,Nestora Ice Cream Pack,Frozen,Ice Cream,Nestora,18,142.26,220.64
+SKU00230,BabyBloom Floor Cleaner Pack,Home Care,Floor Cleaner,Unknown,18,169.99,232.46
+SKU00231,AquaFizz Floor Cleaner Pack,Home Care,Floor Cleaner,AquaFizz,18,42.33,60.66
+SKU00232,DailyDairy Spices 750ml,Groceries,Spices,DailyDairy,5,24.75,42.12
+SKU00233,Nestora Spices Pack,Groceries,Spices,Nestora,5,59.27,105.5
+SKU00234,CleanPro Milk 1L,Dairy,Milk,CleanPro,5,49.74,71.15
+SKU00235,AquaFizz Paneer 250g,Dairy,Paneer,AquaFizz,5,105.19,175.56
+SKU00236,HealthHub Juice 500g,Beverages,Juice,HealthHub,12,11.58,17.9
+SKU00237,CleanPro Juice 100g,Beverages,Juice,CleanPro,12,93.08,151.81
+SKU00238,FreshCo Edible Oil 500g,Groceries,Edible Oil,FreshCo,5,45.42,65.93
+SKU00239,FrostBite Detergent Pack,Home Care,Detergent,FrostBite,18,25.95,37.48
+SKU00240,Snackify Frozen Snacks Pack,Frozen,Frozen Snacks,Snackify,18,75.99,103.61
+SKU00241,UrbanLeaf Skin Care 500g,Personal Care,Skin Care,UrbanLeaf,18,46.07,70.29
+SKU00242,HealthHub Coffee 1L,Beverages,Coffee,Unknown,12,135.74,173.84
+SKU00243,FrostBite Namkeen 250g,Snacks,Namkeen,FrostBite,12,104.64,180.31
+SKU00244,DailyDairy Paneer 750ml,Dairy,Paneer,DailyDairy,5,43.1,59.66
+SKU00245,Snackify Soap 1kg,Personal Care,Soap,Snackify,18,94.21,150.6
+SKU00246,BabyBloom Spices 2L,Groceries,Spices,BabyBloom,5,58.12,88.82
+SKU00247,Snackify Biscuits 1kg,Snacks,Biscuits,Snackify,12,264.74,381.51
+SKU00248,HealthHub Cheese 1kg,Dairy,Cheese,HealthHub,5,42.33,74.89
+SKU00249,Snackify Detergent Pack,Home Care,Detergent,Snackify,18,125.96,216.26
+SKU00250,DailyDairy Wipes 200ml,Baby Care,Wipes,DailyDairy,5,101.96,168.69
+SKU00251,HealthHub Ready Meals 1L,Frozen,Ready Meals,HealthHub,18,50.2,66.02
+SKU00252,CleanPro Cheese 100g,Dairy,Cheese,CleanPro,5,37.55,56.49
+SKU00253,CleanPro Juice 100g,Beverages,Juice,CleanPro,12,71.24,114.56
+SKU00254,DailyDairy Freshener 200ml,Home Care,Freshener,DailyDairy,18,45.84,59.7
+SKU00255,UrbanLeaf Dishwash 100g,Home Care,Dishwash,UrbanLeaf,18,231.01,377.17
+SKU00256,FreshCo Floor Cleaner 750ml,Home Care,Floor Cleaner,FreshCo,18,11.33,19.25
+SKU00257,BabyBloom Coffee 2L,Beverages,Coffee,BabyBloom,12,76.91,136.29
+SKU00258,FrostBite Detergent 500g,Home Care,Detergent,FrostBite,18,60.39,92.16
+SKU00259,FrostBite Milk 1L,Dairy,Milk,FrostBite,5,121.55,153.86
+SKU00260,Nestora Baby Food 100g,Baby Care,Baby Food,Nestora,5,149.08,203.41
+SKU00261,Nestora Detergent 1L,Home Care,Detergent,Nestora,18,81.73,138.36
+SKU00262,AquaFizz Detergent 2L,Home Care,Detergent,AquaFizz,18,65.02,86.58
+SKU00263,HealthHub Skin Care 100g,Personal Care,Skin Care,HealthHub,18,49.44,78.72
+SKU00264,HealthHub Rice Combo,Groceries,Rice,HealthHub,5,87.01,140.02
+SKU00265,Nestora Biscuits 250g,Snacks,Biscuits,Nestora,12,158.26,236.52
+SKU00266,Nestora Biscuits 1L,Snacks,Biscuits,Nestora,12,32.45,54.58
+SKU00267,HealthHub Tea 1L,Beverages,Tea,HealthHub,12,148.73,195.96
+SKU00268,Snackify Pulses 250g,Groceries,Pulses,Snackify,5,135.1,214.95
+SKU00269,CleanPro Deodorant 1kg,Personal Care,Deodorant,CleanPro,18,56.79,82.87
+SKU00270,FrostBite Detergent 2L,Home Care,Detergent,FrostBite,18,48.67,83.79
+SKU00271,Snackify Diapers 1kg,Baby Care,Diapers,Snackify,5,61.32,90.02
+SKU00272,UrbanLeaf Meat 2L,Frozen,Meat,UrbanLeaf,18,84.96,115.02
+SKU00273,Snackify Curd 100g,Dairy,Curd,Snackify,5,49.68,71.51
+SKU00274,CleanPro Frozen Snacks 750ml,Frozen,Frozen Snacks,CleanPro,18,124.47,191.53
+SKU00275,HealthHub Pulses 250g,Groceries,Pulses,HealthHub,5,26.79,34.67
+SKU00276,Nestora Ready Meals 250g,Frozen,Ready Meals,Nestora,18,121.47,209.54
+SKU00277,Snackify Freshener 1L,Home Care,Freshener,Snackify,18,29.86,48.02
+SKU00278,UrbanLeaf Spices 750ml,Groceries,Spices,UrbanLeaf,5,91.41,129.99
+SKU00279,Snackify Milk Combo,Dairy,Milk,Snackify,5,190.46,301.77
+SKU00280,UrbanLeaf Chocolate 200ml,Snacks,Chocolate,UrbanLeaf,12,19.13,34.26
+SKU00281,BabyBloom Rice 200ml,Groceries,Rice,Unknown,5,41.52,65.67
+SKU00282,HealthHub Ice Cream Combo,Frozen,Ice Cream,HealthHub,18,105.84,155.95
+SKU00283,UrbanLeaf Instant Noodles 200ml,Snacks,Instant Noodles,UrbanLeaf,12,29.57,48.05
+SKU00284,UrbanLeaf Namkeen 2L,Snacks,Namkeen,UrbanLeaf,12,93.21,155.28
+SKU00285,FreshCo Shampoo 750ml,Personal Care,Shampoo,FreshCo,18,40.88,66.54
+SKU00286,CleanPro Wipes 200ml,Baby Care,Wipes,CleanPro,5,20.53,28.05
+SKU00287,AquaFizz Spices 500g,Groceries,Spices,AquaFizz,5,198.09,249.89
+SKU00288,HealthHub Ice Cream 200ml,Frozen,Ice Cream,HealthHub,18,64.6,92.01
+SKU00289,Snackify Tissues Combo,Home Care,Tissues,Snackify,18,35.35,52.64
+SKU00290,UrbanLeaf Freshener Combo,Home Care,Freshener,UrbanLeaf,18,60.78,103.77
+SKU00291,Snackify Detergent 2L,Home Care,Detergent,Snackify,18,45.04,58.49
+SKU00292,AquaFizz Skin Care 1kg,Personal Care,Skin Care,AquaFizz,18,43.87,75.19
+SKU00293,DailyDairy Soap 500g,Personal Care,Soap,DailyDairy,18,171.07,219.43
+SKU00294,FreshCo Pulses 750ml,Groceries,Pulses,FreshCo,5,54.52,77.56
+SKU00295,CleanPro Powder 750ml,Baby Care,Powder,CleanPro,5,107.94,158.91
+SKU00296,DailyDairy Energy Drink 750ml,Beverages,Energy Drink,DailyDairy,12,90.76,159.96
+SKU00297,FrostBite Frozen Snacks 2L,Frozen,Frozen Snacks,FrostBite,18,86.16,152.67
+SKU00298,Nestora Wipes 500g,Baby Care,Wipes,Nestora,5,32.32,41.12
+SKU00299,DailyDairy Baby Lotion Pack,Baby Care,Baby Lotion,DailyDairy,5,36.48,49.53
+SKU00300,FrostBite Wipes 750ml,Baby Care,Wipes,FrostBite,5,61.4,91.89
+SKU00301,UrbanLeaf Milk 250g,Dairy,Milk,UrbanLeaf,5,138.41,193.75
+SKU00302,FreshCo Frozen Snacks Pack,Frozen,Frozen Snacks,FreshCo,18,19.26,34.17
+SKU00303,UrbanLeaf Rice 1kg,Groceries,Rice,Unknown,5,95.69,151.83
+SKU00304,FreshCo Instant Noodles 500g,Snacks,Instant Noodles,FreshCo,12,102.36,146.33
+SKU00305,Nestora Frozen Veg 1kg,Frozen,Frozen Veg,Nestora,18,67.75,107.03
+SKU00306,UrbanLeaf Curd Pack,Dairy,Curd,UrbanLeaf,5,80.05,129.76
+SKU00307,DailyDairy Coffee 1kg,Beverages,Coffee,DailyDairy,12,42.31,72.82
+SKU00308,CleanPro Instant Noodles 200ml,Snacks,Instant Noodles,CleanPro,12,110.58,192.2
+SKU00309,CleanPro Instant Noodles Pack,Snacks,Instant Noodles,CleanPro,12,18.26,27.06
+SKU00310,BabyBloom Toothpaste Pack,Personal Care,Toothpaste,BabyBloom,18,148.61,247.75
+SKU00311,CleanPro Tissues Combo,Home Care,Tissues,CleanPro,18,47.85,85.43
+SKU00312,AquaFizz Floor Cleaner 500g,Home Care,Floor Cleaner,AquaFizz,18,308.54,476.26
+SKU00313,Snackify Dishwash 200ml,Home Care,Dishwash,Snackify,18,80.595,172.39
+SKU00314,Snackify Juice 200ml,Beverages,Juice,Snackify,12,137.4,208.69
+SKU00315,BabyBloom Tea 500g,Beverages,Tea,BabyBloom,12,113.26,165.41
+SKU00316,BabyBloom Chocolate 2L,Snacks,Chocolate,BabyBloom,12,80.84,110.09
+SKU00317,BabyBloom Cheese 750ml,Dairy,Cheese,BabyBloom,5,168.54,219.13
+SKU00318,Snackify Namkeen 250g,Snacks,Namkeen,Snackify,12,116.97,167.09
+SKU00319,AquaFizz Toothpaste 1kg,Personal Care,Toothpaste,AquaFizz,18,166.99,241.32
+SKU00320,UrbanLeaf Wipes Combo,Baby Care,Wipes,UrbanLeaf,5,70.71,110.55
+SKU00321,BabyBloom Pulses 100g,Groceries,Pulses,BabyBloom,5,54.11,87.59
+SKU00322,AquaFizz Energy Drink 500g,Beverages,Energy Drink,AquaFizz,12,165.6,271.74
+SKU00323,UrbanLeaf Atta 100g,Groceries,Atta,UrbanLeaf,5,93.48,156.4
+SKU00324,BabyBloom Ready Meals 250g,Frozen,Ready Meals,BabyBloom,18,203.74,318.8
+SKU00325,FrostBite Atta 1L,Groceries,Atta,FrostBite,5,111.46,170.72
+SKU00326,Nestora Rice 500g,Groceries,Rice,Nestora,5,59.28,94.04
+SKU00327,FreshCo Namkeen 2L,Snacks,Namkeen,FreshCo,12,124.45,203.65
+SKU00328,DailyDairy Instant Noodles 750ml,Snacks,Instant Noodles,DailyDairy,12,110.4,189.34
+SKU00329,UrbanLeaf Energy Drink 1L,Beverages,Energy Drink,UrbanLeaf,12,95.68,132.85
+SKU00330,FrostBite Instant Noodles 200ml,Snacks,Instant Noodles,FrostBite,12,77.88,134.15
+SKU00331,DailyDairy Shampoo 200ml,Personal Care,Shampoo,DailyDairy,18,33.43,45.43
+SKU00332,FreshCo Diapers 200ml,Baby Care,Diapers,FreshCo,5,103.56,130.44
+SKU00333,CleanPro Soft Drink 500g,Beverages,Soft Drink,CleanPro,12,32.5,54.87
+SKU00334,AquaFizz Edible Oil Combo,Groceries,Edible Oil,AquaFizz,5,62.99,86.73
+SKU00335,BabyBloom Powder Pack,Baby Care,Powder,BabyBloom,5,204.21,349.44
+SKU00336,Nestora Dishwash 500g,Home Care,Dishwash,Nestora,18,65.68,94.99
+SKU00337,Nestora Edible Oil 750ml,Groceries,Edible Oil,Nestora,5,139.48,201.42
+SKU00338,UrbanLeaf Soap 500g,Personal Care,Soap,UrbanLeaf,18,55.65,96.18
+SKU00339,HealthHub Milk 2L,Dairy,Milk,HealthHub,5,70.15,116.97
+SKU00340,Snackify Dishwash 1L,Home Care,Dishwash,Snackify,18,72.9,93.46
+SKU00341,UrbanLeaf Meat 2L,Frozen,Meat,UrbanLeaf,18,121.75,215.42
+SKU00342,CleanPro Tea 500g,Beverages,Tea,CleanPro,12,127.34,173.77
+SKU00343,Nestora Powder 750ml,Baby Care,Powder,Nestora,5,27.67,44.73
+SKU00344,FreshCo Ready Meals Pack,Frozen,Ready Meals,FreshCo,18,109.9,194.23
+SKU00345,FreshCo Soap 100g,Personal Care,Soap,FreshCo,18,117.67,201.6
+SKU00346,FreshCo Detergent 250g,Home Care,Detergent,FreshCo,18,29,44.04
+SKU00347,CleanPro Tea 2L,Beverages,Tea,CleanPro,12,182.04,322.38
+SKU00348,CleanPro Meat 100g,Frozen,Meat,CleanPro,18,159.59,259.68
+SKU00349,BabyBloom Detergent 500g,Home Care,Detergent,BabyBloom,18,69.56,96.51
+SKU00350,DailyDairy Toothpaste 1L,Personal Care,Toothpaste,DailyDairy,18,51.36,91.44
+SKU00351,DailyDairy Toothpaste 750ml,Personal Care,Toothpaste,DailyDairy,18,27.51,42.97
+SKU00352,DailyDairy Instant Noodles 750ml,Snacks,Instant Noodles,DailyDairy,12,88.89,126.87
+SKU00353,BabyBloom Baby Lotion 500g,Baby Care,Baby Lotion,BabyBloom,5,133.55,198.86
+SKU00354,DailyDairy Spices Combo,Groceries,Spices,DailyDairy,5,55.4,75.16
+SKU00355,Snackify Coffee Combo,Beverages,Coffee,Snackify,12,110.82,173.48
+SKU00356,UrbanLeaf Paneer 200ml,Dairy,Paneer,UrbanLeaf,5,114.26,178.44
+SKU00357,FreshCo Rice 1kg,Groceries,Rice,FreshCo,5,69.15,92.51
+SKU00358,UrbanLeaf Toothpaste 500g,Personal Care,Toothpaste,UrbanLeaf,18,50.74,75
+SKU00359,UrbanLeaf Rice 500g,Groceries,Rice,UrbanLeaf,5,86.55,120.86
+SKU00360,FreshCo Milk Combo,Dairy,Milk,FreshCo,5,120.21,209.47
+SKU00361,BabyBloom Biscuits 1kg,Snacks,Biscuits,BabyBloom,12,49.99,67.84
+SKU00362,DailyDairy Ice Cream 1L,Frozen,Ice Cream,DailyDairy,18,80.93,53.19
+SKU00363,Nestora Detergent 500g,Home Care,Detergent,Nestora,18,35.71,57.21
+SKU00364,FrostBite Cheese 1kg,Dairy,Cheese,FrostBite,5,64.02,101.28
+SKU00365,DailyDairy Shampoo 100g,Personal Care,Shampoo,DailyDairy,18,29.97,43.61
+SKU00366,Snackify Namkeen 100g,Snacks,Namkeen,Snackify,12,46.9,64.93
+SKU00367,CleanPro Pulses 100g,Groceries,Pulses,CleanPro,5,25.5,31.99
+SKU00368,AquaFizz Pulses Combo,Groceries,Pulses,AquaFizz,5,94.05,128.15
+SKU00369,HealthHub Baby Food 500g,Baby Care,Baby Food,HealthHub,5,80.52,136.7
+SKU00370,Snackify Ice Cream 2L,Frozen,Ice Cream,Snackify,18,79.22,111.14
+SKU00371,FrostBite Cheese 500g,Dairy,Cheese,FrostBite,5,36.3,56.04
+SKU00372,HealthHub Detergent 100g,Home Care,Detergent,HealthHub,18,47.5,67.15
+SKU00373,Nestora Skin Care 2L,Personal Care,Skin Care,Nestora,18,36.56,46.99
+SKU00374,Nestora Floor Cleaner 500g,Home Care,Floor Cleaner,Nestora,18,48.9,72.46
+SKU00375,FreshCo Chocolate Pack,Snacks,Chocolate,FreshCo,12,10.76,19.32
+SKU00376,HealthHub Skin Care 250g,Personal Care,Skin Care,HealthHub,18,74.16,109.09
+SKU00377,UrbanLeaf Energy Drink 100g,Beverages,Energy Drink,UrbanLeaf,12,114.72,164.45
+SKU00378,FrostBite Dishwash 200ml,Home Care,Dishwash,FrostBite,18,48.67,76.18
+SKU00379,FrostBite Milk 2L,Dairy,Milk,FrostBite,5,56.31,81.49
+SKU00380,AquaFizz Cheese 1kg,Dairy,Cheese,AquaFizz,5,71.01,97.98
+SKU00381,FreshCo Ready Meals 750ml,Frozen,Ready Meals,FreshCo,18,39.38,57.49
+SKU00382,DailyDairy Pulses 100g,Groceries,Pulses,DailyDairy,5,98.04,171.09
+SKU00383,BabyBloom Soft Drink 2L,Beverages,Soft Drink,BabyBloom,12,54.17,71.96
+SKU00384,DailyDairy Skin Care Pack,Personal Care,Skin Care,DailyDairy,18,154.89,204.78
+SKU00385,HealthHub Deodorant Combo,Personal Care,Deodorant,HealthHub,18,21.82,36.33
+SKU00386,HealthHub Pulses 250g,Groceries,Pulses,HealthHub,5,143.08,193.62
+SKU00387,BabyBloom Skin Care 250g,Personal Care,Skin Care,BabyBloom,18,109.84,145.21
+SKU00388,FrostBite Skin Care 100g,Personal Care,Skin Care,FrostBite,18,86.89,120.24
+SKU00389,AquaFizz Dishwash Pack,Home Care,Dishwash,AquaFizz,18,168.25,291.99
+SKU00390,DailyDairy Tissues 100g,Home Care,Tissues,DailyDairy,18,162.01,286.3
+SKU00391,UrbanLeaf Energy Drink 200ml,Beverages,Energy Drink,UrbanLeaf,12,262.52,462.82
+SKU00392,HealthHub Floor Cleaner 2L,Home Care,Floor Cleaner,HealthHub,18,55.07,78.34
+SKU00393,DailyDairy Biscuits 250g,Snacks,Biscuits,DailyDairy,12,28.98,50.66
+SKU00394,FreshCo Floor Cleaner 200ml,Home Care,Floor Cleaner,FreshCo,18,19.35,24.86
+SKU00395,Snackify Curd 200ml,Dairy,Curd,Snackify,5,54.22,82.14
+SKU00396,CleanPro Toothpaste 750ml,Personal Care,Toothpaste,CleanPro,18,132.77,206.28
+SKU00397,FreshCo Coffee 1kg,Beverages,Coffee,FreshCo,12,30.88,46.23
+SKU00398,Snackify Coffee Pack,Beverages,Coffee,Snackify,12,72.2,129.11
+SKU00399,Snackify Rice 750ml,Groceries,Rice,Snackify,5,30.96,51.54
+SKU00400,CleanPro Tissues Pack,Home Care,Tissues,CleanPro,18,125.1,189.23
+SKU00401,CleanPro Atta Combo,Groceries,Atta,CleanPro,5,45.08,74.52
+SKU00402,DailyDairy Ice Cream 750ml,Frozen,Ice Cream,DailyDairy,18,146.97,245.35
+SKU00403,HealthHub Frozen Veg 1L,Frozen,Frozen Veg,HealthHub,18,132.21,173.42
+SKU00404,FrostBite Shampoo 750ml,Personal Care,Shampoo,FrostBite,18,125.5,179.13
+SKU00405,FreshCo Namkeen 750ml,Snacks,Namkeen,FreshCo,12,84.68,121.1
+SKU00406,UrbanLeaf Freshener 100g,Home Care,Freshener,UrbanLeaf,18,134.6,238.08
+SKU00407,FrostBite Ready Meals 500g,Frozen,Ready Meals,FrostBite,18,40.91,70.34
+SKU00408,UrbanLeaf Meat 250g,Frozen,Meat,UrbanLeaf,18,100.92,142.83
+SKU00409,FrostBite Spices 1kg,Groceries,Spices,FrostBite,5,254.18,455.87
+SKU00410,BabyBloom Pulses 1L,Groceries,Pulses,BabyBloom,5,257.43,332.06
+SKU00411,BabyBloom Soap 250g,Personal Care,Soap,BabyBloom,18,85.29,122.28
+SKU00412,FrostBite Paneer 2L,Dairy,Paneer,FrostBite,5,37.1,50.48
+SKU00413,BabyBloom Freshener 500g,Home Care,Freshener,BabyBloom,18,185.89,285.6
+SKU00414,AquaFizz Instant Noodles 750ml,Snacks,Instant Noodles,AquaFizz,12,53.65,93.76
+SKU00415,UrbanLeaf Wipes 750ml,Baby Care,Wipes,UrbanLeaf,5,194.83,327.96
+SKU00416,AquaFizz Paneer 500g,Dairy,Paneer,AquaFizz,5,91.38,116.1
+SKU00417,Snackify Juice 750ml,Beverages,Juice,Snackify,12,89.8,124.52
+SKU00418,FreshCo Rice 750ml,Groceries,Rice,FreshCo,5,199.02,333.89
+SKU00419,HealthHub Frozen Snacks 100g,Frozen,Frozen Snacks,HealthHub,18,74.01,103.92
+SKU00420,CleanPro Curd 750ml,Dairy,Curd,CleanPro,5,87.01,147.91
+SKU00421,FrostBite Freshener 1L,Home Care,Freshener,FrostBite,18,63.58,101.25
+SKU00422,FreshCo Soap 1L,Personal Care,Soap,FreshCo,18,25.81,42.16
+SKU00423,DailyDairy Powder 200ml,Baby Care,Powder,DailyDairy,5,125.71,206.52
+SKU00424,FrostBite Chocolate 100g,Snacks,Chocolate,FrostBite,12,89.37,140.07
+SKU00425,AquaFizz Skin Care 1L,Personal Care,Skin Care,AquaFizz,18,136.84,184.93
+SKU00426,CleanPro Soft Drink 750ml,Beverages,Soft Drink,Unknown,12,77.45,134.8
+SKU00427,Nestora Skin Care 100g,Personal Care,Skin Care,Nestora,18,41.69,65.04
+SKU00428,CleanPro Biscuits 250g,Snacks,Biscuits,CleanPro,12,45.78,75.4
+SKU00429,Snackify Baby Lotion Combo,Baby Care,Baby Lotion,Snackify,5,24.16,30.55
+SKU00430,UrbanLeaf Cheese 100g,Dairy,Cheese,UrbanLeaf,5,53.29,71.93
+SKU00431,FreshCo Ice Cream Combo,Frozen,Ice Cream,FreshCo,18,102.66,160.24
+SKU00432,BabyBloom Biscuits 250g,Snacks,Biscuits,BabyBloom,12,93.7,158.42
+SKU00433,DailyDairy Rice 1kg,Groceries,Rice,DailyDairy,5,57.91,83.9
+SKU00434,HealthHub Juice 1kg,Beverages,Juice,HealthHub,12,61.05,101.54
+SKU00435,UrbanLeaf Soap Pack,Personal Care,Soap,UrbanLeaf,18,53.75,67.23
+SKU00436,DailyDairy Biscuits 750ml,Snacks,Biscuits,DailyDairy,12,57.62,73.44
+SKU00437,HealthHub Deodorant 1kg,Personal Care,Deodorant,HealthHub,18,130.51,212.56
+SKU00438,FrostBite Coffee 1L,Beverages,Coffee,FrostBite,12,25.09,44.99
+SKU00439,FreshCo Butter 2L,Dairy,Butter,FreshCo,5,101.91,145.09
+SKU00440,Snackify Cheese 1L,Dairy,Cheese,Snackify,5,56.67,81.32
+SKU00441,FrostBite Skin Care 2L,Personal Care,Skin Care,FrostBite,18,42.22,60.67
+SKU00442,FrostBite Spices 200ml,Groceries,Spices,FrostBite,5,70.28,110.26
+SKU00443,FrostBite Wipes 200ml,Baby Care,Wipes,FrostBite,5,69.47,101.91
+SKU00444,AquaFizz Atta Pack,Groceries,Atta,AquaFizz,5,89.47,129.76
+SKU00445,FrostBite Baby Food 250g,Baby Care,Baby Food,FrostBite,5,44.87,75.02
+SKU00446,FreshCo Ready Meals 200ml,Frozen,Ready Meals,FreshCo,18,128.12,160.28
+SKU00447,Nestora Chips Combo,Snacks,Chips,Nestora,12,70.15,121.28
+SKU00448,FreshCo Pulses 2L,Groceries,Pulses,FreshCo,5,123.72,205.08
+SKU00449,UrbanLeaf Baby Lotion 500g,Baby Care,Baby Lotion,UrbanLeaf,5,16.02,28.45
+SKU00450,UrbanLeaf Freshener 250g,Home Care,Freshener,UrbanLeaf,18,131.38,225.01
+SKU00451,AquaFizz Cheese Pack,Dairy,Cheese,AquaFizz,5,76.64,129.26
+SKU00452,Snackify Floor Cleaner 250g,Home Care,Floor Cleaner,Snackify,18,45.66,64.43
+SKU00453,BabyBloom Frozen Snacks 500g,Frozen,Frozen Snacks,BabyBloom,18,82.32,138.25
+SKU00454,AquaFizz Juice Pack,Beverages,Juice,AquaFizz,12,47.2,74.51
+SKU00455,BabyBloom Frozen Snacks 100g,Frozen,Frozen Snacks,BabyBloom,18,66.39,95.75
+SKU00456,FrostBite Biscuits 1kg,Snacks,Biscuits,FrostBite,12,78.42,132.96
+SKU00457,AquaFizz Biscuits 100g,Snacks,Biscuits,AquaFizz,12,200.05,303.92
+SKU00458,FreshCo Deodorant 500g,Personal Care,Deodorant,FreshCo,18,116.96,209.52
+SKU00459,Snackify Meat 2L,Frozen,Meat,Snackify,18,44.88,73.91
+SKU00460,CleanPro Spices 1kg,Groceries,Spices,CleanPro,5,77.03,133.56
+SKU00461,DailyDairy Rice Pack,Groceries,Rice,DailyDairy,5,193.42,337.67
+SKU00462,BabyBloom Edible Oil Combo,Groceries,Edible Oil,BabyBloom,5,119.75,188.22
+SKU00463,UrbanLeaf Meat Combo,Frozen,Meat,UrbanLeaf,18,236.41,411.58
+SKU00464,Nestora Curd Pack,Dairy,Curd,Nestora,5,188.72,297.91
+SKU00465,UrbanLeaf Shampoo 500g,Personal Care,Shampoo,UrbanLeaf,18,54.33,83.2
+SKU00466,Nestora Ice Cream 250g,Frozen,Ice Cream,Nestora,18,96.19,172.88
+SKU00467,BabyBloom Toothpaste 100g,Personal Care,Toothpaste,BabyBloom,18,253.73,414.3
+SKU00468,Snackify Coffee 500g,Beverages,Coffee,Snackify,12,118.59,193.28
+SKU00469,Snackify Chips Combo,Snacks,Chips,Snackify,12,87.64,157.19
+SKU00470,HealthHub Spices 2L,Groceries,Spices,HealthHub,5,144.67,230.89
+SKU00471,Snackify Rice Combo,Groceries,Rice,Snackify,5,113.19,141.66
+SKU00472,FreshCo Ready Meals 500g,Frozen,Ready Meals,FreshCo,18,75.69,122.76
+SKU00473,HealthHub Meat 200ml,Frozen,Meat,HealthHub,18,48.77,77.83
+SKU00474,BabyBloom Baby Lotion 1kg,Baby Care,Baby Lotion,BabyBloom,5,45.79,75.57
+SKU00475,DailyDairy Butter 200ml,Dairy,Butter,DailyDairy,5,51.27,91.57
+SKU00476,Nestora Spices 500g,Groceries,Spices,Nestora,5,39.32,65.09
+SKU00477,DailyDairy Milk 1kg,Dairy,Milk,DailyDairy,5,61.41,110.35
+SKU00478,Nestora Skin Care 100g,Personal Care,Skin Care,Nestora,18,94.79,159.57
+SKU00479,UrbanLeaf Freshener 500g,Home Care,Freshener,UrbanLeaf,18,42.7,76.39
+SKU00480,FreshCo Biscuits 100g,Snacks,Biscuits,FreshCo,12,102.87,153.21
+SKU00481,CleanPro Baby Lotion 500g,Baby Care,Baby Lotion,CleanPro,5,93.1,128.98
+SKU00482,Nestora Rice 500g,Groceries,Rice,Nestora,5,31.49,48.91
+SKU00483,CleanPro Butter 100g,Dairy,Butter,CleanPro,5,45.1,78.41
+SKU-78870,HealthHub Skin Care 500g,Personal Care,Skin Care,HealthHub,18,21.13,36.4
+SKU00485,HealthHub Namkeen Pack,Snacks,Namkeen,HealthHub,12,105.63,170.96
+SKU00486,UrbanLeaf Wipes 1kg,Baby Care,Wipes,UrbanLeaf,5,44.54,65.56
+SKU00487,Snackify Biscuits Pack,Snacks,Biscuits,Snackify,12,119.12,166.93
+SKU00488,CleanPro Ready Meals Combo,Frozen,Ready Meals,CleanPro,18,164.78,208.25
+SKU00489,CleanPro Namkeen 500g,Snacks,Namkeen,CleanPro,12,35.92,53.15
+SKU00490,Nestora Instant Noodles 200ml,Snacks,Instant Noodles,Nestora,12,59.42,90.72
+SKU00491,Snackify Energy Drink 1L,Beverages,Energy Drink,Snackify,12,52.36,93.73
+SKU00492,Snackify Ready Meals Combo,Frozen,Ready Meals,Snackify,18,125.81,196.53
+SKU00493,CleanPro Freshener 500g,Home Care,Freshener,CleanPro,18,123.64,193.89
+SKU00494,CleanPro Namkeen 750ml,Snacks,Namkeen,CleanPro,12,25.53,38.45
+SKU00495,Nestora Deodorant 100g,Personal Care,Deodorant,Nestora,18,92.37,116.2
+SKU00496,UrbanLeaf Deodorant 100g,Personal Care,Deodorant,UrbanLeaf,18,68.35,96.21
+SKU00497,BabyBloom Baby Food 1kg,Baby Care,Baby Food,BabyBloom,5,127.29,205.14
+SKU00498,DailyDairy Baby Lotion 1L,Baby Care,Baby Lotion,DailyDairy,5,31.08,50.96
+SKU00499,Nestora Energy Drink 750ml,Beverages,Energy Drink,Nestora,12,61.67,109.33
+SKU00500,CleanPro Wipes Combo,Baby Care,Wipes,CleanPro,5,124.86,189.15
+SKU00501,FrostBite Spices 2L,Groceries,Spices,FrostBite,5,228.92,372.81
+SKU00502,AquaFizz Paneer 1kg,Dairy,Paneer,AquaFizz,5,45.59,76.96
+SKU00503,HealthHub Freshener 2L,Home Care,Freshener,HealthHub,18,48.32,80.55
+SKU00504,AquaFizz Energy Drink Pack,Beverages,Energy Drink,AquaFizz,12,100.86,133.05
+SKU00505,DailyDairy Dishwash 1L,Home Care,Dishwash,DailyDairy,18,86.57,150.61
+SKU00506,CleanPro Curd 250g,Dairy,Curd,CleanPro,5,71.96,116.63
+SKU00507,BabyBloom Chocolate 200ml,Snacks,Chocolate,BabyBloom,12,45.21,73.16
+SKU00508,FrostBite Detergent 250g,Home Care,Detergent,FrostBite,18,211.27,280.82
+SKU00509,FrostBite Cheese 1kg,Dairy,Cheese,FrostBite,5,146.71,259.5
+SKU00510,HealthHub Toothpaste 500g,Personal Care,Toothpaste,HealthHub,18,50.74,82.4
+SKU00511,BabyBloom Namkeen Combo,Snacks,Namkeen,BabyBloom,12,78.39,106.2
+SKU00512,Nestora Rice 1L,Groceries,Rice,Nestora,5,148.4,233.28
+SKU00513,HealthHub Powder 1L,Baby Care,Powder,HealthHub,5,150.1,199.86
+SKU00514,Snackify Juice 1kg,Beverages,Juice,Snackify,12,103,131.87
+SKU00515,HealthHub Powder 200ml,Baby Care,Powder,HealthHub,5,70.71,116.06
+SKU00516,AquaFizz Tea 1L,Beverages,Tea,AquaFizz,12,219.73,363.77
+SKU00517,FreshCo Skin Care 500g,Personal Care,Skin Care,FreshCo,18,52.49,80.49
+SKU00518,BabyBloom Rice 250g,Groceries,Rice,BabyBloom,5,80.92,107.81
+SKU00519,FreshCo Baby Lotion Combo,Baby Care,Baby Lotion,FreshCo,5,54.82,78.38
+SKU00520,FreshCo Ice Cream 100g,Frozen,Ice Cream,FreshCo,18,123.94,162.07
+SKU00521,DailyDairy Instant Noodles 1kg,Snacks,Instant Noodles,DailyDairy,12,51.56,70.88
+SKU00522,FrostBite Frozen Veg 200ml,Frozen,Frozen Veg,FrostBite,18,125.38,161.27
+SKU00523,DailyDairy Biscuits 200ml,Snacks,Biscuits,DailyDairy,12,155.36,250.87
+SKU00524,AquaFizz Pulses 500g,Groceries,Pulses,AquaFizz,5,118.99,199.68
+SKU00525,CleanPro Rice 2L,Groceries,Rice,CleanPro,5,33.29,51.08
+SKU00526,FreshCo Diapers 200ml,Baby Care,Diapers,FreshCo,5,58.53,94.43
+SKU00527,DailyDairy Chips 100g,Snacks,Chips,DailyDairy,12,44.16,58.85
+SKU00528,FrostBite Diapers 250g,Baby Care,Diapers,FrostBite,5,73.68,128.9
+SKU00529,Snackify Namkeen 1kg,Snacks,Namkeen,Snackify,12,31.59,49.81
+SKU00530,Snackify Chocolate 200ml,Snacks,Chocolate,Snackify,12,38.7,51.03
+SKU00531,UrbanLeaf Wipes 500g,Baby Care,Wipes,UrbanLeaf,5,79.15,122.19
+SKU00532,Nestora Wipes 200ml,Baby Care,Wipes,Nestora,5,148.4,222.94
+SKU00533,HealthHub Detergent 250g,Home Care,Detergent,HealthHub,18,147.97,255.61
+SKU00534,FreshCo Skin Care 750ml,Personal Care,Skin Care,FreshCo,18,60.69,100.89
+SKU00535,FrostBite Rice 250g,Groceries,Rice,FrostBite,5,58.45,76.19
+SKU00536,FrostBite Biscuits 1kg,Snacks,Biscuits,FrostBite,12,178.72,287.1
+SKU00537,AquaFizz Biscuits 1L,Snacks,Biscuits,AquaFizz,12,196.66,251.6
+SKU00538,FrostBite Atta 2L,Groceries,Atta,FrostBite,5,66.83,101.76
+SKU00539,UrbanLeaf Skin Care 100g,Personal Care,Skin Care,UrbanLeaf,18,56.73,96.99
+SKU00540,DailyDairy Ready Meals 200ml,Frozen,Ready Meals,DailyDairy,18,47.92,64.86
+SKU00541,HealthHub Pulses 100g,Groceries,Pulses,HealthHub,5,78.68,126.36
+SKU00542,CleanPro Biscuits Pack,Snacks,Biscuits,CleanPro,12,109.78,161.76
+SKU00543,FrostBite Cheese Pack,Dairy,Cheese,FrostBite,5,54.49,71.56
+SKU00544,BabyBloom Curd 500g,Dairy,Curd,BabyBloom,5,133.6,232.12
+SKU00545,FrostBite Tissues 100g,Home Care,Tissues,FrostBite,18,39.88,65.64
+SKU00546,DailyDairy Cheese 250g,Dairy,Cheese,DailyDairy,5,123.5,172.52
+SKU00547,DailyDairy Frozen Snacks 1L,Frozen,Frozen Snacks,DailyDairy,18,192.51,261.9
+SKU00548,CleanPro Butter 750ml,Dairy,Butter,CleanPro,5,101.22,146.43
+SKU00549,CleanPro Shampoo 200ml,Personal Care,Shampoo,CleanPro,18,45.63,74.97
+SKU00550,BabyBloom Spices 250g,Groceries,Spices,BabyBloom,5,70.98,124.47
+SKU00551,Nestora Skin Care 2L,Personal Care,Skin Care,Nestora,18,58.82,90.19
+SKU00552,AquaFizz Coffee 750ml,Beverages,Coffee,AquaFizz,12,77.45,139.57
+SKU00553,DailyDairy Spices 100g,Groceries,Spices,DailyDairy,5,169.2,212.77
+SKU00554,UrbanLeaf Soap 2L,Personal Care,Soap,UrbanLeaf,18,133.21,184.45
+SKU00555,DailyDairy Dishwash Combo,Home Care,Dishwash,DailyDairy,18,100.56,169.02
+SKU00556,HealthHub Milk Pack,Dairy,Milk,HealthHub,5,57.31,76.94
+SKU00557,DailyDairy Coffee 200ml,Beverages,Coffee,DailyDairy,12,59.29,92.9
+SKU00558,CleanPro Tissues 1L,Home Care,Tissues,CleanPro,18,85.38,108.09
+SKU00559,BabyBloom Rice 750ml,Groceries,Rice,BabyBloom,5,214.59,306.3
+SKU00560,AquaFizz Edible Oil 250g,Groceries,Edible Oil,AquaFizz,5,208.04,335.6
+SKU00561,FreshCo Soft Drink 500g,Beverages,Soft Drink,FreshCo,12,288.33,468.37
+SKU00562,UrbanLeaf Ready Meals 100g,Frozen,Ready Meals,UrbanLeaf,18,115.33,145.3
+SKU00563,HealthHub Dishwash 250g,Home Care,Dishwash,HealthHub,18,125.25,168.67
+SKU00564,AquaFizz Atta Combo,Groceries,Atta,AquaFizz,5,44.18,60.83
+SKU00565,BabyBloom Pulses Pack,Groceries,Pulses,BabyBloom,5,55.8,77.61
+SKU00566,AquaFizz Milk 1L,Dairy,Milk,AquaFizz,5,71.96,41.84
+SKU00567,HealthHub Chocolate 500g,Snacks,Chocolate,HealthHub,12,53.41,89.85
+SKU00568,FrostBite Tea Pack,Beverages,Tea,FrostBite,12,79.93,104.47
+SKU00569,BabyBloom Edible Oil 200ml,Groceries,Edible Oil,BabyBloom,5,72.75,100.16
+SKU00570,FreshCo Atta 1L,Groceries,Atta,FreshCo,5,78.67,46.35
+SKU00571,FreshCo Soap 100g,Personal Care,Soap,FreshCo,18,113.5,190.57
+SKU00572,Nestora Energy Drink 500g,Beverages,Energy Drink,Nestora,12,37.54,62.84
+SKU00573,CleanPro Curd 500g,Dairy,Curd,CleanPro,5,124.56,163.15
+SKU00574,DailyDairy Powder Pack,Baby Care,Powder,DailyDairy,5,78.79,121.67
+SKU00575,FreshCo Cheese 200ml,Dairy,Cheese,FreshCo,5,54.97,88.34
+SKU00576,FreshCo Pulses Pack,Groceries,Pulses,FreshCo,5,65.02,96.86
+SKU00577,BabyBloom Powder 100g,Baby Care,Powder,BabyBloom,5,120.33,206.84
+SKU00578,FreshCo Milk 750ml,Dairy,Milk,FreshCo,5,57.89,75.87
+SKU00579,HealthHub Deodorant 1L,Personal Care,Deodorant,HealthHub,18,107.86,168.08
+SKU00580,HealthHub Dishwash Pack,Home Care,Dishwash,HealthHub,18,157.51,258.94
+SKU00581,Nestora Frozen Veg 750ml,Frozen,Frozen Veg,Nestora,18,190.82,341.49
+SKU00582,HealthHub Meat 2L,Frozen,Meat,HealthHub,18,57.14,71.73
+SKU00583,Nestora Spices 250g,Groceries,Spices,Nestora,5,156.88,258.54
+SKU00584,DailyDairy Chocolate 250g,Snacks,Chocolate,DailyDairy,12,78.26,112.5
+SKU-26673,AquaFizz Meat 750ml,Frozen,Meat,AquaFizz,18,23.37,38.79
+SKU00586,BabyBloom Pulses 200ml,Groceries,Pulses,BabyBloom,5,37.89,58.34
+SKU00587,Snackify Biscuits 500g,Snacks,Biscuits,Snackify,12,30.7,51.55
+SKU00588,BabyBloom Chips 200ml,Snacks,Chips,Unknown,12,37.62,50.43
+SKU00589,Snackify Cheese 1L,Dairy,Cheese,Snackify,5,60.86,106.69
+SKU00590,UrbanLeaf Atta 750ml,Groceries,Atta,UrbanLeaf,5,25.72,37.63
+SKU00591,Nestora Ready Meals 500g,Frozen,Ready Meals,Nestora,18,138.6,234.5
+SKU00592,CleanPro Edible Oil Combo,Groceries,Edible Oil,CleanPro,5,83.86,118.33
+SKU00593,Nestora Energy Drink Combo,Beverages,Energy Drink,Nestora,12,174.6,231.22
+SKU00594,FreshCo Cheese 2L,Dairy,Cheese,FreshCo,5,208.25,299.6
+SKU00595,DailyDairy Spices 500g,Groceries,Spices,DailyDairy,5,185.31,300.41
+SKU00596,CleanPro Tea 250g,Beverages,Tea,CleanPro,12,194.14,340.9
+SKU00597,Nestora Shampoo Combo,Personal Care,Shampoo,Nestora,18,192.07,292.59
+SKU00598,FrostBite Tea Combo,Beverages,Tea,FrostBite,12,65.95,94.54
+SKU-00503,FreshCo Skin Care 2L,Personal Care,Skin Care,FreshCo,18,79.4,139.94
+SKU00600,Snackify Toothpaste Combo,Personal Care,Toothpaste,Snackify,18,69.81,115.69
+SKU00601,DailyDairy Juice 1kg,Beverages,Juice,DailyDairy,12,145.51,218.08
+SKU00602,HealthHub Soft Drink Combo,Beverages,Soft Drink,HealthHub,12,109.54,176.25
+SKU00603,DailyDairy Freshener 2L,Home Care,Freshener,DailyDairy,18,82.55,114.75
+SKU00604,BabyBloom Chocolate 100g,Snacks,Chocolate,BabyBloom,12,34.64,52.79
+SKU00605,CleanPro Baby Lotion 500g,Baby Care,Baby Lotion,CleanPro,5,69.51,102.19
+SKU00606,DailyDairy Floor Cleaner 1L,Home Care,Floor Cleaner,DailyDairy,18,121.97,168.94
+SKU00607,Snackify Meat 500g,Frozen,Meat,Snackify,18,134.7,174.93
+SKU00608,DailyDairy Biscuits 250g,Snacks,Biscuits,DailyDairy,12,29.97,41.22
+SKU00609,CleanPro Chocolate 100g,Snacks,Chocolate,CleanPro,12,40,67.58
+SKU00610,Nestora Floor Cleaner 500g,Home Care,Floor Cleaner,Nestora,18,94.73,158
+SKU00611,FreshCo Deodorant Combo,Personal Care,Deodorant,FreshCo,18,90.16,134.43
+SKU00612,Nestora Chocolate 2L,Snacks,Chocolate,Nestora,12,96.41,167.23
+SKU00613,AquaFizz Ready Meals 1kg,Frozen,Ready Meals,AquaFizz,18,53.89,72.05
+SKU00614,Snackify Dishwash 250g,Home Care,Dishwash,Snackify,18,90.44,149.58
+SKU00615,DailyDairy Biscuits Combo,Snacks,Biscuits,DailyDairy,12,155.73,260
+SKU00616,FreshCo Energy Drink Pack,Beverages,Energy Drink,FreshCo,12,48.93,62.97
+SKU00617,Snackify Coffee 1kg,Beverages,Coffee,Snackify,12,63.25,109.18
+SKU00618,BabyBloom Spices Combo,Groceries,Spices,BabyBloom,5,165.41,277.19
+SKU00619,Snackify Butter Combo,Dairy,Butter,Snackify,5,71.96,108.33
+SKU00620,CleanPro Skin Care Combo,Personal Care,Skin Care,CleanPro,18,176.66,268.87
+SKU00621,FrostBite Butter Pack,Dairy,Butter,FrostBite,5,145.03,227.89
+SKU00622,CleanPro Juice 250g,Beverages,Juice,CleanPro,12,68.75,104.04
+SKU00623,BabyBloom Meat Combo,Frozen,Meat,BabyBloom,18,84.79,108.54
+SKU00624,Nestora Frozen Snacks Pack,Frozen,Frozen Snacks,Nestora,18,91.22,135.66
+SKU00625,CleanPro Ready Meals 200ml,Frozen,Ready Meals,CleanPro,18,71.4,123.22
+SKU00626,Snackify Coffee Combo,Beverages,Coffee,Snackify,12,66.01,101.92
+SKU00627,DailyDairy Meat 1kg,Frozen,Meat,DailyDairy,18,87.11,120.61
+SKU00628,HealthHub Namkeen 1L,Snacks,Namkeen,HealthHub,12,27.95,48.9
+SKU00629,Snackify Biscuits 500g,Snacks,Biscuits,Snackify,12,24.48,36.34
+SKU00630,CleanPro Rice Combo,Groceries,Rice,CleanPro,5,47.11,63.66
+SKU00631,BabyBloom Baby Food 100g,Baby Care,Baby Food,BabyBloom,5,64.4,101.59
+SKU00632,BabyBloom Meat 750ml,Frozen,Meat,BabyBloom,18,47.3,63.66
+SKU00633,AquaFizz Ready Meals 500g,Frozen,Ready Meals,AquaFizz,18,95.22,151.7
+SKU00634,Nestora Chocolate 1kg,Snacks,Chocolate,Nestora,12,45.66,74.09
+SKU00635,Snackify Detergent 250g,Home Care,Detergent,Snackify,18,116.13,157.46
+SKU00636,HealthHub Meat 200ml,Frozen,Meat,HealthHub,18,25.95,36.93
+SKU00637,FrostBite Freshener 750ml,Home Care,Freshener,FrostBite,18,50.47,79.41
+SKU00638,HealthHub Powder 250g,Baby Care,Powder,HealthHub,5,31.86,43.68
+SKU00639,AquaFizz Curd 250g,Dairy,Curd,AquaFizz,5,221.94,377.72
+SKU00640,CleanPro Chips 2L,Snacks,Chips,CleanPro,12,24.49,40.46
+SKU00641,CleanPro Shampoo 250g,Personal Care,Shampoo,CleanPro,18,78.27,105.39
+SKU00642,BabyBloom Frozen Veg 100g,Frozen,Frozen Veg,BabyBloom,18,101.8,160.23
+SKU00643,DailyDairy Tissues 750ml,Home Care,Tissues,DailyDairy,18,15.06,23.57
+SKU00644,HealthHub Shampoo Combo,Personal Care,Shampoo,HealthHub,18,159.31,231.86
+SKU00645,HealthHub Cheese 500g,Dairy,Cheese,HealthHub,5,124.15,200.05
+SKU00646,Nestora Ice Cream 100g,Frozen,Ice Cream,Nestora,18,31.64,47.03
+SKU00647,Snackify Pulses 1kg,Groceries,Pulses,Snackify,5,48.48,72.45
+SKU00648,DailyDairy Rice 200ml,Groceries,Rice,DailyDairy,5,116.01,170.16
+SKU00649,HealthHub Powder 100g,Baby Care,Powder,HealthHub,5,36.6,57.3
+SKU00650,DailyDairy Deodorant 750ml,Personal Care,Deodorant,DailyDairy,18,87.03,108.84
+SKU00651,UrbanLeaf Curd 2L,Dairy,Curd,UrbanLeaf,5,52.21,82.52
+SKU00652,FreshCo Milk 1kg,Dairy,Milk,FreshCo,5,67.67,89.04
+SKU00653,FrostBite Deodorant Pack,Personal Care,Deodorant,FrostBite,18,34.8,47.85
+SKU00654,Nestora Ice Cream Combo,Frozen,Ice Cream,Nestora,18,80.93,120.15
+SKU00655,DailyDairy Biscuits 250g,Snacks,Biscuits,DailyDairy,12,85.38,117.39
+SKU00656,Nestora Coffee 100g,Beverages,Coffee,Nestora,12,81.15,129.13
+SKU00657,FreshCo Paneer 250g,Dairy,Paneer,FreshCo,5,102.66,142.62
+SKU00658,HealthHub Freshener 750ml,Home Care,Freshener,HealthHub,18,147.53,265.19
+SKU00659,DailyDairy Rice 750ml,Groceries,Rice,DailyDairy,5,49.49,88.59
+SKU00660,Nestora Spices Combo,Groceries,Spices,Nestora,5,73.7,105.58
+SKU00661,DailyDairy Dishwash 500g,Home Care,Dishwash,DailyDairy,18,149.38,261.62
+SKU00662,UrbanLeaf Deodorant 250g,Personal Care,Deodorant,UrbanLeaf,18,45.63,79.89
+SKU00663,CleanPro Spices 750ml,Groceries,Spices,CleanPro,5,38.21,52.05
+SKU00664,FreshCo Soft Drink 1L,Beverages,Soft Drink,FreshCo,12,77.45,112.81
+SKU00665,DailyDairy Meat 750ml,Frozen,Meat,DailyDairy,18,61.87,83.75
+SKU00666,FrostBite Soft Drink 500g,Beverages,Soft Drink,FrostBite,12,28.37,39.03
+SKU00667,UrbanLeaf Detergent 200ml,Home Care,Detergent,UrbanLeaf,18,101.04,155.55
+SKU00668,UrbanLeaf Chocolate 500g,Snacks,Chocolate,UrbanLeaf,12,85.28,130.16
+SKU00669,BabyBloom Soft Drink 250g,Beverages,Soft Drink,BabyBloom,12,130.41,195.41
+SKU00670,BabyBloom Cheese 750ml,Dairy,Cheese,BabyBloom,5,55.66,75.66
+SKU00671,FreshCo Chocolate 1kg,Snacks,Chocolate,FreshCo,12,81.15,125.25
+SKU00672,BabyBloom Frozen Snacks 1L,Frozen,Frozen Snacks,BabyBloom,18,226.3,400.68
+SKU00673,FrostBite Frozen Veg 100g,Frozen,Frozen Veg,FrostBite,18,187.05,270.83
+SKU00674,Snackify Biscuits 500g,Snacks,Biscuits,Snackify,12,142.79,232.48
+SKU00675,AquaFizz Tea 200ml,Beverages,Tea,AquaFizz,12,154.61,212.87
+SKU00676,FreshCo Dishwash 1L,Home Care,Dishwash,FreshCo,18,87.38,145.39
+SKU00677,UrbanLeaf Energy Drink 2L,Beverages,Energy Drink,UrbanLeaf,12,46.66,73.11
+SKU00678,DailyDairy Baby Lotion 200ml,Baby Care,Baby Lotion,DailyDairy,5,191,335.15
+SKU00679,DailyDairy Namkeen 750ml,Snacks,Namkeen,DailyDairy,12,56.29,72.78
+SKU00680,DailyDairy Meat 100g,Frozen,Meat,DailyDairy,18,226.49,364.9
+SKU00681,DailyDairy Powder 1L,Baby Care,Powder,DailyDairy,5,74.34,110.16
+SKU00682,CleanPro Wipes Combo,Baby Care,Wipes,CleanPro,5,106.65,154.99
+SKU00683,AquaFizz Powder 2L,Baby Care,Powder,AquaFizz,5,135.08,193.6
+SKU00684,HealthHub Freshener 2L,Home Care,Freshener,HealthHub,18,66.03,115.31
+SKU00685,FreshCo Dishwash 2L,Home Care,Dishwash,FreshCo,18,126.49,175.69
+SKU00686,CleanPro Paneer 750ml,Dairy,Paneer,CleanPro,5,214.94,343.34
+SKU00687,UrbanLeaf Edible Oil 100g,Groceries,Edible Oil,UrbanLeaf,5,42.85,54.18
+SKU00688,FreshCo Spices 200ml,Groceries,Spices,FreshCo,5,105.39,187.58
+SKU00689,DailyDairy Floor Cleaner 1kg,Home Care,Floor Cleaner,DailyDairy,18,53.53,90.52
+SKU00690,AquaFizz Paneer 2L,Dairy,Paneer,AquaFizz,5,126.41,205.95
+SKU00691,FreshCo Coffee 100g,Beverages,Coffee,FreshCo,12,112.75,173.11
+SKU00692,CleanPro Curd 200ml,Dairy,Curd,CleanPro,5,58.21,84.29
+SKU00693,AquaFizz Frozen Snacks 750ml,Frozen,Frozen Snacks,AquaFizz,18,79.54,118.49
+SKU00694,CleanPro Wipes 200ml,Baby Care,Wipes,CleanPro,5,151.94,245.02
+SKU00695,AquaFizz Pulses 750ml,Groceries,Pulses,AquaFizz,5,93.73,143.39
+SKU00696,DailyDairy Spices 750ml,Groceries,Spices,DailyDairy,5,95.86,166.94
+SKU00697,UrbanLeaf Chips 100g,Snacks,Chips,UrbanLeaf,12,105.03,150.05
+SKU00698,HealthHub Cheese 1L,Dairy,Cheese,HealthHub,5,37.06,63.92
+SKU00699,Nestora Spices Combo,Groceries,Spices,Nestora,5,60.26,85.3
+SKU00700,DailyDairy Skin Care 100g,Personal Care,Skin Care,DailyDairy,18,61.47,81.74
+SKU00701,Nestora Skin Care 2L,Personal Care,Skin Care,Nestora,18,29.07,38.37
+SKU00702,HealthHub Coffee 1L,Beverages,Coffee,HealthHub,12,81.89,114.33
+SKU00703,CleanPro Powder 750ml,Baby Care,Powder,CleanPro,5,201.77,353.98
+SKU00704,FreshCo Chips 100g,Snacks,Chips,FreshCo,12,19.43,32.84
+SKU00705,HealthHub Edible Oil 500g,Groceries,Edible Oil,HealthHub,5,57.86,95.73
+SKU00706,Nestora Detergent 250g,Home Care,Detergent,Nestora,18,33.31,47.25
+SKU00707,FreshCo Floor Cleaner 750ml,Home Care,Floor Cleaner,FreshCo,18,47.66,65.25
+SKU00708,DailyDairy Meat 100g,Frozen,Meat,Unknown,18,60.35,87.44
+SKU00709,Snackify Cheese Pack,Dairy,Cheese,Snackify,5,123.79,200.22
+SKU00710,FrostBite Instant Noodles 2L,Snacks,Instant Noodles,FrostBite,12,60.03,80.4
+SKU00711,Snackify Atta 2L,Groceries,Atta,Snackify,5,60.47,93.16
+SKU00712,DailyDairy Skin Care 500g,Personal Care,Skin Care,DailyDairy,18,112.74,163.79
+SKU00713,BabyBloom Coffee 200ml,Beverages,Coffee,BabyBloom,12,64.58,107.71
+SKU00714,CleanPro Tissues 1L,Home Care,Tissues,CleanPro,18,71.72,115.05
+SKU00715,AquaFizz Atta 250g,Groceries,Atta,AquaFizz,5,27.49,36.62
+SKU00716,DailyDairy Ice Cream 100g,Frozen,Ice Cream,DailyDairy,18,87.65,124.46
+SKU00717,FrostBite Soap Pack,Personal Care,Soap,FrostBite,18,40.4,68.45
+SKU00718,Nestora Dishwash 2L,Home Care,Dishwash,Nestora,18,95.65,166.23
+SKU00719,AquaFizz Wipes 100g,Baby Care,Wipes,AquaFizz,5,66.36,101.6
+SKU00720,HealthHub Soap Combo,Personal Care,Soap,HealthHub,18,20.88,35.6
+SKU00721,FreshCo Floor Cleaner 2L,Home Care,Floor Cleaner,FreshCo,18,46.59,63.63
+SKU-04416,UrbanLeaf Frozen Veg Combo,Frozen,Frozen Veg,UrbanLeaf,18,169.9,250.32
+SKU00723,DailyDairy Baby Lotion 1kg,Baby Care,Baby Lotion,DailyDairy,5,186.77,299.56
+SKU00724,AquaFizz Tea Pack,Beverages,Tea,AquaFizz,12,69.11,87.44
+SKU00725,Nestora Detergent 100g,Home Care,Detergent,Nestora,18,201.73,310.92
+SKU00726,FreshCo Coffee 100g,Beverages,Coffee,FreshCo,12,38.55,66.27
+SKU00727,UrbanLeaf Diapers 250g,Baby Care,Diapers,UrbanLeaf,5,32.81,44.8
+SKU00728,HealthHub Baby Lotion 250g,Baby Care,Baby Lotion,HealthHub,5,102.69,129.03
+SKU00729,BabyBloom Coffee 1kg,Beverages,Coffee,BabyBloom,12,111.3,178.77
+SKU00730,FrostBite Rice Pack,Groceries,Rice,FrostBite,5,76.3,123.1
+SKU00731,HealthHub Cheese 100g,Dairy,Cheese,HealthHub,5,60.57,83.8
+SKU00732,Snackify Butter Pack,Dairy,Butter,Snackify,5,53.45,76.41
+SKU00733,AquaFizz Tissues 500g,Home Care,Tissues,AquaFizz,18,25.44,36.61
+SKU00734,CleanPro Chips Combo,Snacks,Chips,CleanPro,12,129.56,167.89
+SKU00735,FreshCo Coffee 200ml,Beverages,Coffee,FreshCo,12,143.09,237.43
+SKU00736,Snackify Rice 200ml,Groceries,Rice,Snackify,5,61.12,83.61
+SKU00737,UrbanLeaf Juice 2L,Beverages,Juice,UrbanLeaf,12,31.64,52.98
+SKU00738,CleanPro Shampoo Combo,Personal Care,Shampoo,CleanPro,18,78.91,126.91
+SKU00739,UrbanLeaf Chocolate 250g,Snacks,Chocolate,UrbanLeaf,12,23.24,30.38
+SKU00740,AquaFizz Biscuits 200ml,Snacks,Biscuits,Unknown,12,32.11,53.35
+SKU00741,DailyDairy Namkeen 500g,Snacks,Namkeen,DailyDairy,12,167.55,222.69
+SKU00742,HealthHub Rice 750ml,Groceries,Rice,HealthHub,5,114.92,185.26
+SKU00743,FrostBite Atta 750ml,Groceries,Atta,FrostBite,5,61.38,79.34
+SKU00744,CleanPro Wipes Combo,Baby Care,Wipes,CleanPro,5,40.58,63.68
+SKU00745,DailyDairy Curd 200ml,Dairy,Curd,DailyDairy,5,67.99,101.6
+SKU00746,Snackify Skin Care 1kg,Personal Care,Skin Care,Snackify,18,65.62,100.94
+SKU00747,FrostBite Spices 1L,Groceries,Spices,FrostBite,5,61.97,102.98
+SKU00748,Nestora Floor Cleaner 500g,Home Care,Floor Cleaner,Nestora,18,31.05,51.42
+SKU00749,CleanPro Frozen Veg 1kg,Frozen,Frozen Veg,CleanPro,18,67.3,85.81
+SKU00750,Snackify Edible Oil 250g,Groceries,Edible Oil,Snackify,5,60.7,81.33
+SKU00751,Nestora Butter 200ml,Dairy,Butter,Nestora,5,63.1,112.96
+SKU00752,CleanPro Skin Care 500g,Personal Care,Skin Care,CleanPro,18,50.05,74.66
+SKU00753,AquaFizz Powder Combo,Baby Care,Powder,AquaFizz,5,16.82,28.63
+SKU00754,FreshCo Freshener 2L,Home Care,Freshener,FreshCo,18,116.22,180.48
+SKU-04868,FrostBite Instant Noodles 750ml,Snacks,Instant Noodles,FrostBite,12,94.89,158.97
+SKU00756,HealthHub Skin Care Combo,Personal Care,Skin Care,HealthHub,18,39.32,50.68
+SKU00757,AquaFizz Milk Combo,Dairy,Milk,AquaFizz,5,265.44,405.03
+SKU00758,HealthHub Energy Drink 750ml,Beverages,Energy Drink,HealthHub,12,24.34,40.5
+SKU00759,UrbanLeaf Chocolate 100g,Snacks,Chocolate,UrbanLeaf,12,32.42,47.93
+SKU00760,Nestora Instant Noodles 1L,Snacks,Instant Noodles,Nestora,12,52.62,86.48
+SKU00761,FreshCo Freshener 200ml,Home Care,Freshener,FreshCo,18,119.92,204.71
+SKU00762,HealthHub Instant Noodles 750ml,Snacks,Instant Noodles,HealthHub,12,19.44,33.01
+SKU00763,DailyDairy Instant Noodles Combo,Snacks,Instant Noodles,DailyDairy,12,153.82,209.65
+SKU00764,CleanPro Baby Lotion 1kg,Baby Care,Baby Lotion,CleanPro,5,226.93,396.9
+SKU00765,DailyDairy Dishwash 2L,Home Care,Dishwash,DailyDairy,18,129.08,202.69
+SKU00766,CleanPro Curd 1kg,Dairy,Curd,CleanPro,5,318.5,430.25
+SKU00767,CleanPro Tissues Pack,Home Care,Tissues,CleanPro,18,88.56,149.31
+SKU00768,FrostBite Tissues 1L,Home Care,Tissues,FrostBite,18,73.37,101.98
+SKU00769,HealthHub Paneer Combo,Dairy,Paneer,HealthHub,5,32.24,46.2
+SKU00770,FreshCo Butter Pack,Dairy,Butter,FreshCo,5,90.77,134.25
+SKU00771,BabyBloom Deodorant 2L,Personal Care,Deodorant,BabyBloom,18,177.85,271.75
+SKU00772,FreshCo Paneer Pack,Dairy,Paneer,FreshCo,5,104.71,140.82
+SKU00773,UrbanLeaf Meat 1L,Frozen,Meat,UrbanLeaf,18,90.06,154.68
+SKU00774,UrbanLeaf Diapers 250g,Baby Care,Diapers,UrbanLeaf,5,51.01,86.76
+SKU00775,DailyDairy Spices 500g,Groceries,Spices,DailyDairy,5,158.77,225.09
+SKU00776,Nestora Chips Combo,Snacks,Chips,Nestora,12,100.19,178.7
+SKU00777,CleanPro Freshener 1kg,Home Care,Freshener,CleanPro,18,68.69,88.09
+SKU00778,FreshCo Skin Care Combo,Personal Care,Skin Care,FreshCo,18,24.97,32.89
+SKU00779,FreshCo Tissues 250g,Home Care,Tissues,FreshCo,18,35.25,58.91
+SKU00780,AquaFizz Toothpaste 500g,Personal Care,Toothpaste,AquaFizz,18,69.6,96.28
+SKU00781,DailyDairy Tea 250g,Beverages,Tea,DailyDairy,12,212.96,290.63
+SKU00782,Nestora Chocolate Combo,Snacks,Chocolate,Nestora,12,27.05,34.15
+SKU00783,AquaFizz Chips 2L,Snacks,Chips,AquaFizz,12,41.88,59.93
+SKU00784,FreshCo Instant Noodles 500g,Snacks,Instant Noodles,FreshCo,12,101.35,130.87
+SKU00785,AquaFizz Floor Cleaner 1L,Home Care,Floor Cleaner,AquaFizz,18,126.51,202.51
+SKU00786,HealthHub Diapers Pack,Baby Care,Diapers,HealthHub,5,201.25,252.25
+SKU00787,FrostBite Milk 1kg,Dairy,Milk,FrostBite,5,85.7,127.7
+SKU00788,UrbanLeaf Cheese 200ml,Dairy,Cheese,UrbanLeaf,5,108.11,187.79
+SKU00789,UrbanLeaf Soft Drink Combo,Beverages,Soft Drink,UrbanLeaf,12,81.18,126.69
+SKU00790,CleanPro Energy Drink Pack,Beverages,Energy Drink,CleanPro,12,81.72,116.97
+SKU00791,AquaFizz Rice 200ml,Groceries,Rice,AquaFizz,5,52.33,68.53
+SKU00792,FrostBite Powder 500g,Baby Care,Powder,FrostBite,5,150.53,267.17
+SKU00793,UrbanLeaf Rice Combo,Groceries,Rice,UrbanLeaf,5,246.39,310.47
+SKU00794,UrbanLeaf Ready Meals Pack,Frozen,Ready Meals,UrbanLeaf,18,98.04,149.5
+SKU00795,HealthHub Frozen Veg 2L,Frozen,Frozen Veg,HealthHub,18,67.42,97.94
+SKU00796,AquaFizz Cheese 2L,Dairy,Cheese,AquaFizz,5,49.69,83.12
+SKU00797,UrbanLeaf Floor Cleaner Combo,Home Care,Floor Cleaner,UrbanLeaf,18,41.23,64.92
+SKU00798,UrbanLeaf Atta 250g,Groceries,Atta,UrbanLeaf,5,145.6,257.15
+SKU00799,HealthHub Baby Food Pack,Baby Care,Baby Food,HealthHub,5,65.9,116.88
+SKU00800,AquaFizz Frozen Snacks 500g,Frozen,Frozen Snacks,AquaFizz,18,21.29,35.13
+SKU00801,FrostBite Instant Noodles 250g,Snacks,Instant Noodles,FrostBite,12,94.76,143.28
+SKU00802,DailyDairy Detergent Pack,Home Care,Detergent,DailyDairy,18,70.21,108.38
+SKU00803,UrbanLeaf Atta 100g,Groceries,Atta,UrbanLeaf,5,110.42,193.83
+SKU00804,FreshCo Frozen Snacks 2L,Frozen,Frozen Snacks,FreshCo,18,27.02,44.71
+SKU00805,HealthHub Juice Combo,Beverages,Juice,HealthHub,12,51.71,85.93
+SKU00806,BabyBloom Shampoo 1kg,Personal Care,Shampoo,BabyBloom,18,125.08,221
+SKU00807,HealthHub Freshener 1kg,Home Care,Freshener,HealthHub,18,44.48,64.72
+SKU00808,DailyDairy Namkeen 200ml,Snacks,Namkeen,DailyDairy,12,61.97,105.76
+SKU00809,AquaFizz Cheese 250g,Dairy,Cheese,AquaFizz,5,201.29,335.06
+SKU00810,BabyBloom Floor Cleaner 750ml,Home Care,Floor Cleaner,BabyBloom,18,93.08,135.99
+SKU00811,AquaFizz Chips 250g,Snacks,Chips,AquaFizz,12,130.22,216.85
+SKU00812,AquaFizz Powder 1L,Baby Care,Powder,AquaFizz,5,119.22,156.04
+SKU00813,UrbanLeaf Floor Cleaner 200ml,Home Care,Floor Cleaner,UrbanLeaf,18,113.05,142.42
+SKU00814,FrostBite Detergent 750ml,Home Care,Detergent,FrostBite,18,251.61,435.45
+SKU00815,HealthHub Baby Lotion 100g,Baby Care,Baby Lotion,HealthHub,5,65.96,117.9
+SKU00816,FreshCo Deodorant 200ml,Personal Care,Deodorant,FreshCo,18,25.59,38.08
+SKU00817,CleanPro Juice Combo,Beverages,Juice,CleanPro,12,80.66,118.12
+SKU00818,DailyDairy Chips Combo,Snacks,Chips,DailyDairy,12,47.56,65.38
+SKU00819,UrbanLeaf Paneer 100g,Dairy,Paneer,UrbanLeaf,5,32.54,57.44
+SKU00820,AquaFizz Chocolate 750ml,Snacks,Chocolate,AquaFizz,12,111.34,155.12
+SKU00821,AquaFizz Butter 200ml,Dairy,Butter,AquaFizz,5,41.25,66.22
+SKU00822,BabyBloom Juice 500g,Beverages,Juice,BabyBloom,12,14.07,23.9
+SKU00823,DailyDairy Toothpaste 500g,Personal Care,Toothpaste,DailyDairy,18,80.77,121.08
+SKU00824,Snackify Detergent Pack,Home Care,Detergent,Snackify,18,68.06,120.93
+SKU00825,CleanPro Tissues 2L,Home Care,Tissues,CleanPro,18,56.73,82.32
+SKU00826,DailyDairy Curd 500g,Dairy,Curd,DailyDairy,5,18.29,30.67
+SKU00827,Nestora Deodorant 1kg,Personal Care,Deodorant,Nestora,18,90.46,123.73
+SKU00828,AquaFizz Paneer 200ml,Dairy,Paneer,AquaFizz,5,158.58,240.18
+SKU00829,CleanPro Atta 2L,Groceries,Atta,CleanPro,5,30.43,49.73
+SKU00830,Nestora Pulses 1L,Groceries,Pulses,Nestora,5,83.19,115.56
+SKU00831,Nestora Namkeen Pack,Snacks,Namkeen,Nestora,12,53.31,91.07
+SKU00832,AquaFizz Meat 200ml,Frozen,Meat,AquaFizz,18,39.83,70.38
+SKU00833,Nestora Spices 1kg,Groceries,Spices,Nestora,5,86.28,121.57
+SKU00834,HealthHub Chocolate 750ml,Snacks,Chocolate,HealthHub,12,24.94,37.95
+SKU00835,Nestora Soft Drink 500g,Beverages,Soft Drink,Nestora,12,149.19,187.87
+SKU00836,AquaFizz Instant Noodles 500g,Snacks,Instant Noodles,AquaFizz,12,57.92,85.28
+SKU00837,AquaFizz Meat 200ml,Frozen,Meat,AquaFizz,18,115.66,182.58
+SKU00838,UrbanLeaf Milk 1L,Dairy,Milk,UrbanLeaf,5,51.46,68.91
+SKU00839,FreshCo Deodorant 250g,Personal Care,Deodorant,FreshCo,18,38.53,68.88
+SKU00840,AquaFizz Chocolate 2L,Snacks,Chocolate,AquaFizz,12,59.13,79.62
+SKU00841,HealthHub Deodorant 250g,Personal Care,Deodorant,HealthHub,18,116.03,177.32
+SKU00842,CleanPro Tissues Pack,Home Care,Tissues,CleanPro,18,149.33,187.44
+SKU00843,BabyBloom Pulses Pack,Groceries,Pulses,BabyBloom,5,87.74,124.06
+SKU00844,BabyBloom Juice 2L,Beverages,Juice,BabyBloom,12,112.16,189.77
+SKU00845,CleanPro Coffee 500g,Beverages,Coffee,CleanPro,12,154.24,227.42
+SKU00846,AquaFizz Diapers 200ml,Baby Care,Diapers,AquaFizz,5,61.34,105.59
+SKU00847,FreshCo Freshener 500g,Home Care,Freshener,FreshCo,18,70.39,119.71
+SKU00848,Nestora Shampoo 2L,Personal Care,Shampoo,Nestora,18,139.29,207.37
+SKU00849,UrbanLeaf Tissues 100g,Home Care,Tissues,UrbanLeaf,18,94.21,125.84
+SKU00850,UrbanLeaf Biscuits 200ml,Snacks,Biscuits,UrbanLeaf,12,72.15,122.32
+SKU00851,DailyDairy Pulses Pack,Groceries,Pulses,DailyDairy,5,97.62,171.47
+SKU00852,AquaFizz Wipes 750ml,Baby Care,Wipes,AquaFizz,5,28.08,38.87
+SKU00853,AquaFizz Wipes 500g,Baby Care,Wipes,AquaFizz,5,82.55,106.6
+SKU00854,FreshCo Milk 750ml,Dairy,Milk,FreshCo,5,60.47,103.67
+SKU00855,DailyDairy Chips Combo,Snacks,Chips,DailyDairy,12,129.59,205.34
+SKU00856,Snackify Ready Meals 1L,Frozen,Ready Meals,Snackify,18,156.58,218.1
+SKU00857,Nestora Pulses 100g,Groceries,Pulses,Nestora,5,60.29,81.08
+SKU00858,DailyDairy Frozen Veg 250g,Frozen,Frozen Veg,DailyDairy,18,92.52,140.94
+SKU00859,Snackify Floor Cleaner 100g,Home Care,Floor Cleaner,Snackify,18,94.47,166.26
+SKU00860,DailyDairy Soft Drink Combo,Beverages,Soft Drink,DailyDairy,12,124.33,166.84
+SKU00861,CleanPro Skin Care 200ml,Personal Care,Skin Care,CleanPro,18,74.53,122.77
+SKU00862,FreshCo Juice 250g,Beverages,Juice,FreshCo,12,105.61,146.71
+SKU00863,DailyDairy Spices 200ml,Groceries,Spices,DailyDairy,5,33.16,52.24
+SKU00864,HealthHub Instant Noodles Pack,Snacks,Instant Noodles,HealthHub,12,97.72,146.09
+SKU00865,Nestora Tissues 1L,Home Care,Tissues,Nestora,18,516.91,807.17
+SKU00866,FrostBite Chips 200ml,Snacks,Chips,FrostBite,12,91.18,120.75
+SKU00867,CleanPro Frozen Veg 500g,Frozen,Frozen Veg,CleanPro,18,141.43,243.92
+SKU00868,Nestora Curd 200ml,Dairy,Curd,Nestora,5,120.75,216.33
+SKU00869,BabyBloom Coffee 250g,Beverages,Coffee,BabyBloom,12,33.25,50.65
+SKU00870,FrostBite Curd 750ml,Dairy,Curd,FrostBite,5,144.18,212.2
+SKU00871,AquaFizz Butter 750ml,Dairy,Butter,AquaFizz,5,71.96,29.56
+SKU00872,HealthHub Chips 1L,Snacks,Chips,HealthHub,12,24.3,32.62
+SKU00873,Nestora Detergent 200ml,Home Care,Detergent,Nestora,18,98.89,127.44
+SKU00874,Snackify Tissues 1kg,Home Care,Tissues,Snackify,18,95.7,157.32
+SKU00875,AquaFizz Rice 1kg,Groceries,Rice,AquaFizz,5,91.34,141.63
+SKU00876,FrostBite Milk 200ml,Dairy,Milk,FrostBite,5,102.54,163.81
+SKU00877,UrbanLeaf Ice Cream 1L,Frozen,Ice Cream,UrbanLeaf,18,371.2,469.89
+SKU00878,BabyBloom Deodorant 1kg,Personal Care,Deodorant,BabyBloom,18,154.3,266.15
+SKU00879,FreshCo Chocolate 250g,Snacks,Chocolate,FreshCo,12,45.71,73.92
+SKU00880,FreshCo Dishwash 100g,Home Care,Dishwash,FreshCo,18,89.08,116.84
+SKU00881,CleanPro Shampoo 100g,Personal Care,Shampoo,CleanPro,18,64.71,104.41
+SKU00882,DailyDairy Milk 2L,Dairy,Milk,DailyDairy,5,138.43,247.65
+SKU00883,BabyBloom Spices 250g,Groceries,Spices,BabyBloom,5,39.7,55.24
+SKU00884,AquaFizz Tea 500g,Beverages,Tea,AquaFizz,12,13.95,24.68
+SKU00885,CleanPro Powder 2L,Baby Care,Powder,CleanPro,5,301.31,535.7
+SKU00886,CleanPro Chocolate 750ml,Snacks,Chocolate,CleanPro,12,144.87,248.14
+SKU00887,BabyBloom Frozen Snacks 750ml,Frozen,Frozen Snacks,BabyBloom,18,38.63,58.67
+SKU00888,Snackify Frozen Veg 750ml,Frozen,Frozen Veg,Snackify,18,67.48,100.91
+SKU00889,Nestora Frozen Veg 1L,Frozen,Frozen Veg,Nestora,18,102.36,148.32
+SKU00890,Snackify Energy Drink 1L,Beverages,Energy Drink,Snackify,12,87.29,146.84
+SKU00891,FreshCo Detergent Combo,Home Care,Detergent,FreshCo,18,246.44,328.5
+SKU00892,Snackify Rice 2L,Groceries,Rice,Snackify,5,82.9,127.93
+SKU00893,BabyBloom Chocolate 250g,Snacks,Chocolate,BabyBloom,12,22.75,35.28
+SKU00894,Nestora Powder Pack,Baby Care,Powder,Nestora,5,123.65,217.89
+SKU00895,AquaFizz Powder Combo,Baby Care,Powder,AquaFizz,5,44.13,77.21
+SKU00896,Snackify Frozen Veg 250g,Frozen,Frozen Veg,Snackify,18,42.76,64.8
+SKU00897,BabyBloom Butter 100g,Dairy,Butter,BabyBloom,5,45.11,71.23
+SKU00898,BabyBloom Chips 1L,Snacks,Chips,BabyBloom,12,138.94,227.69
+SKU00899,FrostBite Juice 250g,Beverages,Juice,FrostBite,12,136.06,210.73
+SKU00900,DailyDairy Powder 200ml,Baby Care,Powder,DailyDairy,5,42.46,59.69
+SKU00901,AquaFizz Paneer 2L,Dairy,Paneer,AquaFizz,5,45.73,61.16
+SKU00902,UrbanLeaf Tissues 250g,Home Care,Tissues,UrbanLeaf,18,80.595,174.9
+SKU00903,UrbanLeaf Dishwash Pack,Home Care,Dishwash,UrbanLeaf,18,88.75,132.26
+SKU00904,AquaFizz Shampoo 750ml,Personal Care,Shampoo,AquaFizz,18,46.02,64.37
+SKU00905,FreshCo Chocolate 750ml,Snacks,Chocolate,FreshCo,12,17.19,24.75
+SKU00906,Snackify Toothpaste 1kg,Personal Care,Toothpaste,Snackify,18,15.6,19.86
+SKU00907,BabyBloom Namkeen 2L,Snacks,Namkeen,BabyBloom,12,86.35,134.3
+SKU00908,FreshCo Soft Drink 100g,Beverages,Soft Drink,FreshCo,12,77.8,100.51
+SKU00909,FrostBite Frozen Snacks 1kg,Frozen,Frozen Snacks,FrostBite,18,66.22,86.65
+SKU00910,UrbanLeaf Baby Lotion 2L,Baby Care,Baby Lotion,UrbanLeaf,5,15.59,26.11
+SKU00911,UrbanLeaf Shampoo 250g,Personal Care,Shampoo,UrbanLeaf,18,129.75,169.94
+SKU00912,DailyDairy Powder Combo,Baby Care,Powder,DailyDairy,5,76.22,124.56
+SKU00913,AquaFizz Instant Noodles 750ml,Snacks,Instant Noodles,AquaFizz,12,72.13,109.58
+SKU00914,BabyBloom Tea 1L,Beverages,Tea,BabyBloom,12,99.46,137.63
+SKU00915,CleanPro Edible Oil 500g,Groceries,Edible Oil,CleanPro,5,96.3,150.61
+SKU00916,BabyBloom Toothpaste 100g,Personal Care,Toothpaste,BabyBloom,18,50.64,77.84
+SKU00917,DailyDairy Namkeen 100g,Snacks,Namkeen,DailyDairy,12,182.71,319.88
+SKU00918,BabyBloom Diapers Pack,Baby Care,Diapers,BabyBloom,5,143.73,255.91
+SKU00919,UrbanLeaf Curd 750ml,Dairy,Curd,UrbanLeaf,5,66.21,99.7
+SKU00920,AquaFizz Energy Drink 500g,Beverages,Energy Drink,AquaFizz,12,113.54,164.7
+SKU00921,AquaFizz Baby Lotion 500g,Baby Care,Baby Lotion,AquaFizz,5,49.95,78.54
+SKU00922,Snackify Soft Drink Combo,Beverages,Soft Drink,Snackify,12,84.19,110.43
+SKU00923,DailyDairy Juice 750ml,Beverages,Juice,DailyDairy,12,187.86,289.36
+SKU00924,DailyDairy Deodorant Combo,Personal Care,Deodorant,DailyDairy,18,44.17,57.64
+SKU00925,DailyDairy Chips 250g,Snacks,Chips,DailyDairy,12,109.75,153.8
+SKU00926,FrostBite Milk 750ml,Dairy,Milk,FrostBite,5,66.47,110.8
+SKU00927,Snackify Meat Pack,Frozen,Meat,Snackify,18,174.46,291.99
+SKU00928,HealthHub Rice Combo,Groceries,Rice,HealthHub,5,140.22,212.07
+SKU00929,Snackify Baby Lotion 750ml,Baby Care,Baby Lotion,Snackify,5,65.76,117.06
+SKU00930,FreshCo Wipes Pack,Baby Care,Wipes,FreshCo,5,144.33,192.46
+SKU00931,UrbanLeaf Ready Meals 2L,Frozen,Ready Meals,UrbanLeaf,18,52.58,74.77
+SKU00932,DailyDairy Atta 750ml,Groceries,Atta,DailyDairy,5,94.06,148.23
+SKU00933,BabyBloom Pulses 250g,Groceries,Pulses,BabyBloom,5,19.08,28.53
+SKU00934,FreshCo Ready Meals 1kg,Frozen,Ready Meals,FreshCo,18,83.49,134.13
+SKU00935,HealthHub Detergent 500g,Home Care,Detergent,HealthHub,18,89.03,115.63
+SKU00936,FreshCo Butter 1L,Dairy,Butter,FreshCo,5,30.22,49.73
+SKU00937,DailyDairy Diapers 250g,Baby Care,Diapers,DailyDairy,5,65.5,87.74
+SKU00938,BabyBloom Diapers 750ml,Baby Care,Diapers,BabyBloom,5,53.68,75.08
+SKU00939,Nestora Skin Care 200ml,Personal Care,Skin Care,Nestora,18,33.94,45.78
+SKU00940,DailyDairy Namkeen 2L,Snacks,Namkeen,DailyDairy,12,15.14,24.92
+SKU00941,BabyBloom Atta 100g,Groceries,Atta,BabyBloom,5,41.27,52.49
+SKU00942,AquaFizz Tea 750ml,Beverages,Tea,AquaFizz,12,33.04,59.06
+SKU00943,BabyBloom Juice 750ml,Beverages,Juice,BabyBloom,12,113.7,165.48
+SKU00944,CleanPro Ice Cream 100g,Frozen,Ice Cream,CleanPro,18,86.17,118.74
+SKU00945,Snackify Freshener 2L,Home Care,Freshener,Snackify,18,95.09,135.93
+SKU00946,DailyDairy Juice 200ml,Beverages,Juice,DailyDairy,12,50.56,76.98
+SKU00947,BabyBloom Atta 250g,Groceries,Atta,BabyBloom,5,72.95,100.42
+SKU00948,HealthHub Baby Lotion 200ml,Baby Care,Baby Lotion,HealthHub,5,161.37,269.32
+SKU00949,DailyDairy Namkeen Pack,Snacks,Namkeen,DailyDairy,12,17.19,28.63
+SKU00950,Nestora Pulses 2L,Groceries,Pulses,Nestora,5,107.05,170.85
+SKU00951,HealthHub Butter 250g,Dairy,Butter,HealthHub,5,77.81,136.04
+SKU00952,DailyDairy Pulses Pack,Groceries,Pulses,DailyDairy,5,48.81,80.4
+SKU00953,DailyDairy Coffee Combo,Beverages,Coffee,DailyDairy,12,87.43,117
+SKU00954,FrostBite Baby Lotion 1L,Baby Care,Baby Lotion,FrostBite,5,118.94,165.97
+SKU00955,UrbanLeaf Detergent 750ml,Home Care,Detergent,UrbanLeaf,18,78.24,118.31
+SKU00956,UrbanLeaf Milk 1kg,Dairy,Milk,UrbanLeaf,5,57.87,82.18
+SKU00957,Nestora Wipes 2L,Baby Care,Wipes,Nestora,5,77.83,114.25
+SKU00958,DailyDairy Skin Care 100g,Personal Care,Skin Care,DailyDairy,18,172.19,260.18
+SKU00959,UrbanLeaf Tissues 200ml,Home Care,Tissues,UrbanLeaf,18,69.65,117.09
+SKU00960,FreshCo Tissues Pack,Home Care,Tissues,FreshCo,18,28.9,44.77
+SKU00961,FreshCo Curd 500g,Dairy,Curd,FreshCo,5,61.85,105.81
+SKU00962,CleanPro Frozen Veg Pack,Frozen,Frozen Veg,CleanPro,18,37.47,59.37
+SKU00963,Nestora Frozen Veg 200ml,Frozen,Frozen Veg,Nestora,18,28.97,36.33
+SKU00964,FrostBite Atta 100g,Groceries,Atta,FrostBite,5,92.17,165.28
+SKU00965,AquaFizz Tissues 2L,Home Care,Tissues,AquaFizz,18,169.19,225.15
+SKU00966,CleanPro Toothpaste 250g,Personal Care,Toothpaste,CleanPro,18,94.28,138.36
+SKU00967,DailyDairy Dishwash 750ml,Home Care,Dishwash,DailyDairy,18,80.71,101.75
+SKU00968,Snackify Pulses 200ml,Groceries,Pulses,Snackify,5,34.84,53.61
+SKU00969,BabyBloom Coffee 1kg,Beverages,Coffee,BabyBloom,12,47.11,76.45
+SKU00970,UrbanLeaf Freshener 200ml,Home Care,Freshener,UrbanLeaf,18,131.9,185.76
+SKU00971,Snackify Frozen Snacks 1kg,Frozen,Frozen Snacks,Snackify,18,52.64,92.68
+SKU00972,FreshCo Pulses 1L,Groceries,Pulses,FreshCo,5,52.89,70.47
+SKU00973,FrostBite Cheese 250g,Dairy,Cheese,FrostBite,5,86.4,153.08
+SKU00974,FreshCo Spices 1L,Groceries,Spices,FreshCo,5,96.05,161.6
+SKU00975,CleanPro Baby Food Combo,Baby Care,Baby Food,CleanPro,5,44.04,58.74
+SKU00976,UrbanLeaf Curd Pack,Dairy,Curd,UrbanLeaf,5,73.34,95.83
+SKU00977,HealthHub Coffee 100g,Beverages,Coffee,HealthHub,12,18.79,24.17
+SKU00978,HealthHub Edible Oil 1kg,Groceries,Edible Oil,HealthHub,5,142.7,223.74
+SKU00979,DailyDairy Pulses 200ml,Groceries,Pulses,DailyDairy,5,44.57,61.86
+SKU00980,UrbanLeaf Tea 250g,Beverages,Tea,UrbanLeaf,12,125.03,223.07
+SKU00981,FrostBite Chocolate 1L,Snacks,Chocolate,FrostBite,12,96.02,126.12
+SKU00982,UrbanLeaf Namkeen 1kg,Snacks,Namkeen,UrbanLeaf,12,24.55,41.59
+SKU00983,BabyBloom Tea Pack,Beverages,Tea,BabyBloom,12,51.29,74.71
+SKU00984,FreshCo Paneer 200ml,Dairy,Paneer,FreshCo,5,62.66,78.82
+SKU00985,Nestora Ready Meals 500g,Frozen,Ready Meals,Nestora,18,120.44,199.31
+SKU00986,HealthHub Edible Oil 1kg,Groceries,Edible Oil,HealthHub,5,99.59,156.67
+SKU00987,Snackify Frozen Veg Combo,Frozen,Frozen Veg,Snackify,18,44.01,60.57
+SKU00988,AquaFizz Chips 200ml,Snacks,Chips,AquaFizz,12,27.24,39.38
+SKU00989,FreshCo Biscuits 250g,Snacks,Biscuits,FreshCo,12,128.01,170.58
+SKU00990,CleanPro Spices 200ml,Groceries,Spices,CleanPro,5,213.33,282.46
+SKU00991,FreshCo Tea 1L,Beverages,Tea,FreshCo,12,62.95,98.4
+SKU00992,FrostBite Curd 100g,Dairy,Curd,FrostBite,5,55.63,86.04
+SKU00993,FrostBite Cheese 1L,Dairy,Cheese,FrostBite,5,61.25,83.41
+SKU00994,BabyBloom Deodorant 500g,Personal Care,Deodorant,BabyBloom,18,46.47,65.69
+SKU00995,DailyDairy Juice 100g,Beverages,Juice,DailyDairy,12,195.52,351.49
+SKU00996,DailyDairy Meat 200ml,Frozen,Meat,DailyDairy,18,50.8,73.37
+SKU00997,BabyBloom Tissues 1L,Home Care,Tissues,BabyBloom,18,40.33,61.23
+SKU00998,FreshCo Milk 500g,Dairy,Milk,FreshCo,5,140.37,187.77
+SKU00999,DailyDairy Powder 1L,Baby Care,Powder,DailyDairy,5,27.3,34.49
+SKU01000,UrbanLeaf Curd 100g,Dairy,Curd,UrbanLeaf,5,57.71,91.57
+SKU01001,Snackify Spices Combo,Groceries,Spices,Snackify,5,44.88,62.05
+SKU01002,HealthHub Cheese 1kg,Dairy,Cheese,HealthHub,5,94,155.92
+SKU01003,DailyDairy Paneer 1L,Dairy,Paneer,DailyDairy,5,40.93,56.37
+SKU01004,BabyBloom Tissues 500g,Home Care,Tissues,BabyBloom,18,51.75,75.18
+SKU01005,HealthHub Detergent 250g,Home Care,Detergent,HealthHub,18,22.27,35.77
+SKU01006,DailyDairy Milk Combo,Dairy,Milk,DailyDairy,5,103.87,169.34
+SKU01007,AquaFizz Toothpaste 1kg,Personal Care,Toothpaste,AquaFizz,18,90.46,130.19
+SKU01008,UrbanLeaf Powder 500g,Baby Care,Powder,UrbanLeaf,5,81.42,134.33
+SKU01009,Snackify Chocolate 500g,Snacks,Chocolate,Snackify,12,65.03,101.41
+SKU01010,UrbanLeaf Curd 2L,Dairy,Curd,UrbanLeaf,5,71.81,121.95
+SKU01011,AquaFizz Soap 200ml,Personal Care,Soap,AquaFizz,18,118.51,197.5
+SKU01012,DailyDairy Dishwash 250g,Home Care,Dishwash,DailyDairy,18,87.88,149.56
+SKU01013,FrostBite Milk 500g,Dairy,Milk,FrostBite,5,118.7,165.64
+SKU01014,AquaFizz Powder 1kg,Baby Care,Powder,AquaFizz,5,70.42,91.17
+SKU01015,Nestora Curd 250g,Dairy,Curd,Nestora,5,44.15,55.26
+SKU01016,AquaFizz Ice Cream Combo,Frozen,Ice Cream,AquaFizz,18,157.09,224.9
+SKU01017,FrostBite Skin Care 200ml,Personal Care,Skin Care,FrostBite,18,41.4,61.17
+SKU01018,Nestora Juice Pack,Beverages,Juice,Nestora,12,21.34,29.79
+SKU01019,Snackify Skin Care 2L,Personal Care,Skin Care,Snackify,18,65.165,34.9
+SKU01020,BabyBloom Energy Drink 1kg,Beverages,Energy Drink,BabyBloom,12,65.52,97.3
+SKU01021,DailyDairy Cheese 1L,Dairy,Cheese,DailyDairy,5,139.95,198.46
+SKU01022,FrostBite Tissues 2L,Home Care,Tissues,FrostBite,18,104.29,132.2
+SKU01023,HealthHub Freshener 500g,Home Care,Freshener,HealthHub,18,128.35,219.52
+SKU01024,AquaFizz Ready Meals 750ml,Frozen,Ready Meals,AquaFizz,18,172.44,264.84
+SKU01025,DailyDairy Ice Cream 250g,Frozen,Ice Cream,DailyDairy,18,65.72,88.48
+SKU01026,Nestora Frozen Snacks 100g,Frozen,Frozen Snacks,Nestora,18,43.01,61.57
+SKU01027,Nestora Powder 1kg,Baby Care,Powder,Nestora,5,118.54,185.73
+SKU01028,Snackify Baby Lotion Combo,Baby Care,Baby Lotion,Snackify,5,228.73,298.11
+SKU01029,UrbanLeaf Soft Drink 250g,Beverages,Soft Drink,UrbanLeaf,12,203.56,312.62
+SKU01030,AquaFizz Detergent 750ml,Home Care,Detergent,AquaFizz,18,47.93,79.33
+SKU01031,Nestora Powder 100g,Baby Care,Powder,Nestora,5,57.29,76.78
+SKU01032,CleanPro Chips 200ml,Snacks,Chips,CleanPro,12,288.39,441.21
+SKU01033,BabyBloom Baby Lotion 1L,Baby Care,Baby Lotion,BabyBloom,5,276.44,481.83
+SKU01034,Nestora Curd 750ml,Dairy,Curd,Nestora,5,65.15,106.65
+SKU01035,CleanPro Skin Care 250g,Personal Care,Skin Care,CleanPro,18,96.78,144.77
+SKU01036,UrbanLeaf Toothpaste 1L,Personal Care,Toothpaste,UrbanLeaf,18,63.64,80.44
+SKU01037,Snackify Instant Noodles 100g,Snacks,Instant Noodles,Snackify,12,17.1,30.13
+SKU01038,BabyBloom Baby Food Combo,Baby Care,Baby Food,BabyBloom,5,58.9,105.43
+SKU01039,Snackify Dishwash 2L,Home Care,Dishwash,Snackify,18,87.8,147.61
+SKU01040,UrbanLeaf Rice 1kg,Groceries,Rice,UrbanLeaf,5,31.26,43.02
+SKU01041,HealthHub Freshener 100g,Home Care,Freshener,HealthHub,18,91.68,143.98
+SKU01042,BabyBloom Chips 2L,Snacks,Chips,BabyBloom,12,25.54,43.22
+SKU01043,CleanPro Frozen Veg 750ml,Frozen,Frozen Veg,CleanPro,18,171.66,264.74
+SKU01044,HealthHub Paneer 250g,Dairy,Paneer,HealthHub,5,43.22,77.08
+SKU01045,CleanPro Baby Food 250g,Baby Care,Baby Food,CleanPro,5,93.8,148.02
+SKU01046,BabyBloom Soft Drink 500g,Beverages,Soft Drink,BabyBloom,12,41.27,51.72
+SKU01047,AquaFizz Baby Lotion 500g,Baby Care,Baby Lotion,AquaFizz,5,21.72,30.7
+SKU01048,BabyBloom Rice 750ml,Groceries,Rice,BabyBloom,5,23.87,42.91
+SKU01049,BabyBloom Baby Food 200ml,Baby Care,Baby Food,BabyBloom,5,44.48,79.6
+SKU01050,AquaFizz Diapers Pack,Baby Care,Diapers,AquaFizz,5,56.09,98.58
+SKU01051,CleanPro Shampoo 200ml,Personal Care,Shampoo,CleanPro,18,73.62,100.35
+SKU01052,HealthHub Tissues 2L,Home Care,Tissues,HealthHub,18,93.33,129.71
+SKU01053,UrbanLeaf Spices Combo,Groceries,Spices,UrbanLeaf,5,109.47,173.28
+SKU01054,CleanPro Coffee 2L,Beverages,Coffee,CleanPro,12,127.35,161.62
+SKU01055,BabyBloom Spices 750ml,Groceries,Spices,BabyBloom,5,139.09,242.03
+SKU01056,FrostBite Butter 250g,Dairy,Butter,FrostBite,5,10.79,16.39
+SKU01057,UrbanLeaf Juice Combo,Beverages,Juice,UrbanLeaf,12,65.15,107.63
+SKU01058,BabyBloom Diapers 250g,Baby Care,Diapers,BabyBloom,5,156.83,248.95
+SKU01059,BabyBloom Soap 500g,Personal Care,Soap,BabyBloom,18,49.84,72.19
+SKU01060,BabyBloom Toothpaste 200ml,Personal Care,Toothpaste,BabyBloom,18,54.64,95.43
+SKU01061,HealthHub Tea 100g,Beverages,Tea,HealthHub,12,116.27,160.97
+SKU01062,UrbanLeaf Frozen Snacks 100g,Frozen,Frozen Snacks,UrbanLeaf,18,42.8,65.56
+SKU01063,DailyDairy Soft Drink Combo,Beverages,Soft Drink,DailyDairy,12,65.06,96.38
+SKU01064,Snackify Chocolate 1kg,Snacks,Chocolate,Snackify,12,115.78,190.47
+SKU01065,Snackify Juice 250g,Beverages,Juice,Snackify,12,106.4,174.39
+SKU01066,CleanPro Ready Meals 1kg,Frozen,Ready Meals,CleanPro,18,302.54,453.25
+SKU01067,FrostBite Tissues 2L,Home Care,Tissues,FrostBite,18,45.92,65.75
+SKU01068,AquaFizz Frozen Veg 500g,Frozen,Frozen Veg,AquaFizz,18,41.55,56.7
+SKU01069,BabyBloom Toothpaste Pack,Personal Care,Toothpaste,BabyBloom,18,56.24,71.75
+SKU01070,CleanPro Ice Cream 750ml,Frozen,Ice Cream,CleanPro,18,63.37,94.55
+SKU01071,BabyBloom Chocolate 100g,Snacks,Chocolate,BabyBloom,12,165.34,206.93
+SKU01072,FrostBite Cheese 500g,Dairy,Cheese,FrostBite,5,65.77,94.98
+SKU01073,HealthHub Edible Oil 100g,Groceries,Edible Oil,HealthHub,5,61.48,109.6
+SKU01074,AquaFizz Instant Noodles 100g,Snacks,Instant Noodles,AquaFizz,12,102.48,164.88
+SKU01075,BabyBloom Detergent 1kg,Home Care,Detergent,BabyBloom,18,87.67,129.54
+SKU01076,CleanPro Ice Cream 200ml,Frozen,Ice Cream,CleanPro,18,49.44,87.48
+SKU01077,Snackify Shampoo 750ml,Personal Care,Shampoo,Snackify,18,48.14,86.52
+SKU01078,Snackify Chocolate Pack,Snacks,Chocolate,Snackify,12,87.31,146.43
+SKU01079,UrbanLeaf Namkeen 200ml,Snacks,Namkeen,UrbanLeaf,12,158.72,224.96
+SKU01080,UrbanLeaf Frozen Snacks 1L,Frozen,Frozen Snacks,UrbanLeaf,18,47.17,81.94
+SKU01081,Snackify Chips 1kg,Snacks,Chips,Snackify,12,41.16,69.35
+SKU01082,DailyDairy Edible Oil Combo,Groceries,Edible Oil,DailyDairy,5,188.25,302.54
+SKU01083,DailyDairy Ready Meals Combo,Frozen,Ready Meals,DailyDairy,18,27.64,41.68
+SKU01084,UrbanLeaf Coffee 1L,Beverages,Coffee,UrbanLeaf,12,287.62,402.15
+SKU01085,FreshCo Tissues 100g,Home Care,Tissues,FreshCo,18,82.49,116.62
+SKU01086,CleanPro Spices 200ml,Groceries,Spices,CleanPro,5,41.58,63.82
+SKU01087,CleanPro Meat 1kg,Frozen,Meat,CleanPro,18,32.43,49.54
+SKU01088,DailyDairy Energy Drink 1L,Beverages,Energy Drink,DailyDairy,12,23.36,35.01
+SKU01089,AquaFizz Tea Combo,Beverages,Tea,AquaFizz,12,68.47,115.55
+SKU01090,Nestora Cheese 2L,Dairy,Cheese,Nestora,5,94.19,130.66
+SKU01091,AquaFizz Milk 1L,Dairy,Milk,AquaFizz,5,118.96,156.77
+SKU01092,UrbanLeaf Spices Pack,Groceries,Spices,UrbanLeaf,5,142.43,191.47
+SKU01093,Nestora Energy Drink Pack,Beverages,Energy Drink,Nestora,12,23.71,37.72
+SKU01094,BabyBloom Rice Pack,Groceries,Rice,BabyBloom,5,35.89,45.49
+SKU01095,DailyDairy Butter 100g,Dairy,Butter,DailyDairy,5,82.84,117.75
+SKU01096,BabyBloom Namkeen Combo,Snacks,Namkeen,BabyBloom,12,240.16,322.73
+SKU01097,BabyBloom Dishwash 1L,Home Care,Dishwash,BabyBloom,18,96.67,122.27
+SKU01098,BabyBloom Energy Drink 500g,Beverages,Energy Drink,BabyBloom,12,64.26,113.67
+SKU01099,Nestora Dishwash 2L,Home Care,Dishwash,Nestora,18,66.38,96.26
+SKU01100,AquaFizz Soft Drink 1kg,Beverages,Soft Drink,AquaFizz,12,43.4,75.76
+SKU01101,HealthHub Tea 1kg,Beverages,Tea,HealthHub,12,107.36,162.63
+SKU01102,BabyBloom Ready Meals Combo,Frozen,Ready Meals,BabyBloom,18,62.09,110.74
+SKU01103,Nestora Frozen Veg 250g,Frozen,Frozen Veg,Nestora,18,142.52,189.05
+SKU01104,FreshCo Namkeen Pack,Snacks,Namkeen,FreshCo,12,66.15,96.19
+SKU01105,FrostBite Skin Care Combo,Personal Care,Skin Care,FrostBite,18,27.17,37.68
+SKU01106,AquaFizz Wipes Combo,Baby Care,Wipes,AquaFizz,5,21.09,35.05
+SKU01107,Snackify Detergent 200ml,Home Care,Detergent,Snackify,18,60.17,83.26
+SKU01108,FreshCo Coffee 2L,Beverages,Coffee,FreshCo,12,57.72,89.92
+SKU01109,DailyDairy Spices 1L,Groceries,Spices,DailyDairy,5,36.07,48.84
+SKU01110,BabyBloom Coffee 100g,Beverages,Coffee,BabyBloom,12,63.24,81.37
+SKU01111,Nestora Edible Oil 1kg,Groceries,Edible Oil,Nestora,5,91.04,158.34
+SKU01112,Snackify Biscuits 500g,Snacks,Biscuits,Snackify,12,44.89,75.16
+SKU01113,AquaFizz Energy Drink 200ml,Beverages,Energy Drink,AquaFizz,12,33.18,55.96
+SKU01114,CleanPro Namkeen 1kg,Snacks,Namkeen,CleanPro,12,30.54,54.92
+SKU01115,AquaFizz Atta 750ml,Groceries,Atta,AquaFizz,5,90.18,154.92
+SKU01116,FreshCo Spices 250g,Groceries,Spices,FreshCo,5,79.94,102.99
+SKU01117,AquaFizz Curd Pack,Dairy,Curd,AquaFizz,5,39.02,54.84
+SKU01118,AquaFizz Diapers 250g,Baby Care,Diapers,AquaFizz,5,121.4,179.35
+SKU01119,FreshCo Wipes 2L,Baby Care,Wipes,FreshCo,5,84.65,149.99
+SKU01120,Snackify Energy Drink 1L,Beverages,Energy Drink,Snackify,12,25.43,32.08
+SKU01121,Nestora Namkeen 1L,Snacks,Namkeen,Nestora,12,135.28,224.06
+SKU01122,Snackify Energy Drink 750ml,Beverages,Energy Drink,Snackify,12,25.41,32.68
+SKU01123,UrbanLeaf Skin Care 200ml,Personal Care,Skin Care,UrbanLeaf,18,45.58,61.3
+SKU01124,DailyDairy Rice Combo,Groceries,Rice,DailyDairy,5,140.63,194.8
+SKU01125,Nestora Ice Cream 1kg,Frozen,Ice Cream,Nestora,18,35.76,53.45
+SKU01126,DailyDairy Diapers Combo,Baby Care,Diapers,DailyDairy,5,104.6,182.77
+SKU01127,AquaFizz Cheese Combo,Dairy,Cheese,AquaFizz,5,265.31,456.86
+SKU01128,DailyDairy Baby Lotion 500g,Baby Care,Baby Lotion,DailyDairy,5,72.55,103.31
+SKU01129,AquaFizz Dishwash 750ml,Home Care,Dishwash,AquaFizz,18,147.82,264.82
+SKU01130,HealthHub Milk 200ml,Dairy,Milk,HealthHub,5,28.14,36.12
+SKU01131,FrostBite Freshener Combo,Home Care,Freshener,FrostBite,18,68.79,88.22
+SKU01132,HealthHub Diapers 500g,Baby Care,Diapers,HealthHub,5,79.51,120.42
+SKU01133,Snackify Wipes 1L,Baby Care,Wipes,Snackify,5,41.33,59.4
+SKU01134,HealthHub Baby Lotion 200ml,Baby Care,Baby Lotion,HealthHub,5,62.92,108.75
+SKU01135,HealthHub Butter 750ml,Dairy,Butter,HealthHub,5,129.25,163.37
+SKU01136,DailyDairy Curd 500g,Dairy,Curd,DailyDairy,5,265.46,460.82
+SKU01137,DailyDairy Meat 500g,Frozen,Meat,DailyDairy,18,106.15,149.18
+SKU01138,DailyDairy Detergent 500g,Home Care,Detergent,DailyDairy,18,119.79,201.8
+SKU01139,Nestora Spices 750ml,Groceries,Spices,Nestora,5,110.29,138.85
+SKU01140,Nestora Dishwash 2L,Home Care,Dishwash,Nestora,18,62.93,110.33
+SKU01141,Nestora Frozen Snacks 200ml,Frozen,Frozen Snacks,Nestora,18,60.25,102.71
+SKU01142,FrostBite Diapers 1kg,Baby Care,Diapers,FrostBite,5,124.33,195.29
+SKU01143,UrbanLeaf Curd 2L,Dairy,Curd,UrbanLeaf,5,197.27,336.88
+SKU01144,BabyBloom Deodorant 250g,Personal Care,Deodorant,BabyBloom,18,98.53,166.61
+SKU01145,Snackify Paneer 500g,Dairy,Paneer,Snackify,5,106.43,183.08
+SKU01146,BabyBloom Milk 1kg,Dairy,Milk,Unknown,5,27.62,44.91
+SKU01147,BabyBloom Milk Combo,Dairy,Milk,BabyBloom,5,19.4,34.6
+SKU01148,Snackify Soft Drink 500g,Beverages,Soft Drink,Snackify,12,284.42,445.86
+SKU01149,UrbanLeaf Detergent 2L,Home Care,Detergent,UrbanLeaf,18,87.96,143.7
+SKU01150,FreshCo Wipes 1L,Baby Care,Wipes,FreshCo,5,61.89,93.55
+SKU01151,HealthHub Ice Cream 1kg,Frozen,Ice Cream,HealthHub,18,85.43,153.2
+SKU01152,FreshCo Chips 1L,Snacks,Chips,FreshCo,12,52.57,66.36
+SKU01153,AquaFizz Milk 100g,Dairy,Milk,AquaFizz,5,120.38,199.3
+SKU01154,CleanPro Juice 200ml,Beverages,Juice,CleanPro,12,35.2,48.69
+SKU01155,HealthHub Powder 250g,Baby Care,Powder,HealthHub,5,146.82,237.89
+SKU01156,FreshCo Detergent 1kg,Home Care,Detergent,FreshCo,18,164.58,221.69
+SKU01157,HealthHub Rice 1L,Groceries,Rice,HealthHub,5,70.54,101.46
+SKU01158,Snackify Ready Meals Combo,Frozen,Ready Meals,Snackify,18,91.32,148.65
+SKU01159,Nestora Detergent 500g,Home Care,Detergent,Nestora,18,116.32,171.56
+SKU01160,Snackify Atta 500g,Groceries,Atta,Snackify,5,117.03,189.05
+SKU01161,CleanPro Deodorant Pack,Personal Care,Deodorant,CleanPro,18,129.36,207.66
+SKU01162,CleanPro Coffee 100g,Beverages,Coffee,CleanPro,12,169.72,222.81
+SKU01163,AquaFizz Chips 750ml,Snacks,Chips,AquaFizz,12,109.29,178.31
+SKU01164,FrostBite Curd 200ml,Dairy,Curd,FrostBite,5,76.42,107.24
+SKU01165,AquaFizz Powder 100g,Baby Care,Powder,AquaFizz,5,99.89,148.2
+SKU01166,Snackify Detergent 2L,Home Care,Detergent,Snackify,18,46.06,70.58
+SKU01167,DailyDairy Pulses 2L,Groceries,Pulses,DailyDairy,5,15.85,23.12
+SKU01168,Nestora Namkeen 1L,Snacks,Namkeen,Nestora,12,110.26,153.83
+SKU01169,BabyBloom Chips 200ml,Snacks,Chips,BabyBloom,12,79.92,107.03
+SKU01170,AquaFizz Milk 750ml,Dairy,Milk,AquaFizz,5,144.71,230.77
+SKU01171,FreshCo Namkeen 2L,Snacks,Namkeen,FreshCo,12,78.78,131.2
+SKU01172,UrbanLeaf Butter 1L,Dairy,Butter,UrbanLeaf,5,42.15,57.12
+SKU01173,DailyDairy Edible Oil 750ml,Groceries,Edible Oil,DailyDairy,5,184.53,291.91
+SKU01174,DailyDairy Curd 100g,Dairy,Curd,DailyDairy,5,91.37,120.81
+SKU01175,Snackify Pulses 1kg,Groceries,Pulses,Snackify,5,91.28,146.44
+SKU01176,FrostBite Deodorant Combo,Personal Care,Deodorant,FrostBite,18,62.76,88.75
+SKU01177,Snackify Toothpaste 1L,Personal Care,Toothpaste,Unknown,18,84.53,122.33
+SKU01178,Nestora Namkeen 1kg,Snacks,Namkeen,Nestora,12,145.97,236.33
+SKU01179,HealthHub Floor Cleaner Combo,Home Care,Floor Cleaner,HealthHub,18,107.04,161.11
+SKU01180,HealthHub Shampoo 1kg,Personal Care,Shampoo,HealthHub,18,22.76,34.08
+SKU01181,FreshCo Frozen Snacks 1kg,Frozen,Frozen Snacks,FreshCo,18,127.73,180.98
+SKU01182,Nestora Paneer 1kg,Dairy,Paneer,Nestora,5,107.82,183
+SKU01183,UrbanLeaf Chips 2L,Snacks,Chips,UrbanLeaf,12,61.41,87.02
+SKU01184,BabyBloom Butter 100g,Dairy,Butter,BabyBloom,5,370.4,595.1
+SKU01185,FreshCo Wipes 100g,Baby Care,Wipes,FreshCo,5,62.47,80.13
+SKU01186,Snackify Soft Drink 200ml,Beverages,Soft Drink,Snackify,12,186.32,326.2
+SKU01187,FrostBite Diapers 250g,Baby Care,Diapers,FrostBite,5,189.21,337.07
+SKU01188,Nestora Biscuits 750ml,Snacks,Biscuits,Nestora,12,97.7,131.97
+SKU-47258,DailyDairy Detergent 250g,Home Care,Detergent,DailyDairy,18,40.78,60.87
+SKU01190,HealthHub Namkeen 500g,Snacks,Namkeen,HealthHub,12,33.69,44.11
+SKU01191,FreshCo Detergent 200ml,Home Care,Detergent,FreshCo,18,142.44,210.47
+SKU01192,UrbanLeaf Juice 500g,Beverages,Juice,UrbanLeaf,12,55.13,95.24
+SKU01193,FreshCo Skin Care 500g,Personal Care,Skin Care,FreshCo,18,132.98,209.64
+SKU01194,FreshCo Frozen Snacks Combo,Frozen,Frozen Snacks,FreshCo,18,84.82,112.44
+SKU01195,FreshCo Detergent 100g,Home Care,Detergent,FreshCo,18,56.78,101.25
+SKU01196,UrbanLeaf Pulses 250g,Groceries,Pulses,UrbanLeaf,5,136.82,212.97
+SKU01197,UrbanLeaf Instant Noodles 200ml,Snacks,Instant Noodles,UrbanLeaf,12,63.6,82.1
+SKU01198,AquaFizz Namkeen 250g,Snacks,Namkeen,AquaFizz,12,17.37,25.21
+SKU01199,FreshCo Deodorant 1L,Personal Care,Deodorant,FreshCo,18,62.35,82.94
+SKU01200,Snackify Toothpaste 500g,Personal Care,Toothpaste,Snackify,18,57.02,98.97
+SKU00484,HealthHub Skin Care 500g,Personal Care,Skin Care,HealthHub,18,21.13,36.4
+SKU00599,FreshCo Skin Care 2L,Personal Care,Skin Care,FreshCo,18,79.4,139.94
