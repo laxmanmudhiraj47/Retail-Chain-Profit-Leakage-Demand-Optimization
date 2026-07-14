@@ -46,19 +46,19 @@ This project analyzes retail sales, inventory, and profitability to identify **p
 
 ### 📊 Tableau Dashboard 1
 
-![Tableau Dashboard 1](Dashboard_Images/tableau_dashboards/dashboard2.png)
+![Tableau Dashboard 1](Dashboard_Images/tableau_dashboards/dashboard2.png.png)
 
 ### 📊 Tableau Dashboard 2
 
-![Tableau Dashboard 2](Dashboard_Images/tableau_dashboards/dashboard3.png)
+![Tableau Dashboard 2](Dashboard_Images/tableau_dashboards/dashboard3.png.png)
 
 ### 📊 Tableau Dashboard 3
 
-![Tableau Dashboard 3](Dashboard_Images/tableau_dashboards/dashboard4.png)
+![Tableau Dashboard 3](Dashboard_Images/tableau_dashboards/dashboard4.png.png)
 
 ### 📊 Tableau Dashboard 4
 
-![Tableau Dashboard 4](Dashboard_Images/tableau_dashboards/dashboard5.png)
+![Tableau Dashboard 4](Dashboard_Images/tableau_dashboards/dashboard5.png.png)
 
 ---
 
