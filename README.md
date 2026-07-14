@@ -42,7 +42,7 @@ This project analyzes retail sales, inventory, and profitability to identify **p
 
 ### Power BI Dashboard
 
-![Power BI Dashboard]("Dashboard_Images\powerbi_dashboards\dashboard1.png.png")
+![Power BI Dashboard]("dashboard1.png.png")
 
 ### Tableau Dashboard
 
